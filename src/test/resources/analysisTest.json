@@ -1,0 +1,45 @@
+{
+  "activitiesTypes": {
+    "loipen": 6,
+    "klassisch und skating": 6,
+    "radfahren": 1,
+    "mountainbikes": 1,
+    "laufen und fitness": 1,
+    "laufstrecken": 1,
+    "bergläufe": 1,
+    "trail running": 1,
+    "piste": 1,
+    "weitere pisten": 1,
+    "ski alpin": 1,
+    "berg": 1,
+    "bergtouren": 1,
+    "weitere berge": 1,
+    "hochtouren": 1
+  },
+  "trackedActivityIds": [
+    "01CFEFF8DA586E548327E539276C42F3",
+    "B66FA66DA650717E0964A4E30A716DAE",
+    "98DCCBB4D6A1F8CC477D9631A8B703F8",
+    "8683D8A950D921AEC3E8FECADD8928B8",
+    "B633594E831BEE18AF6735D3BAFA01E1",
+    "28804CF99975D1E3DCCFB1C2619AC03A",
+    "F443A24D8EECD6879F8C45E1F740B311",
+    "A98CE134AE5F0111A51DB83F091F259D",
+    "0A7428B48777B69EB4C1A615926E5F3C",
+    "078883A95FF002AA246B5B99DA5BB9D7"
+  ],
+  "regionsWithMostActivities": {
+    "numberOfActivities": 7,
+    "regionIds": [
+      "D2633A1FC24E11D18F1B006097B8970B",
+      "D2633A24C24E11D18F1B006097B8970B",
+      "D2633A1BC24E11D18F1B006097B8970B"
+    ]
+  },
+  "regionsWithLeastActivities": {
+    "numberOfActivities": 1,
+    "regionIds": [
+      "D2633A1CC24E11D18F1B006097B8970B"
+    ]
+  }
+}

@@ -1,0 +1,3386 @@
+{"TotalResults":4939,"TotalPages":494,"CurrentPage":1,"Seed":null,"Items":[{
+  "Id": "01CFEFF8DA586E548327E539276C42F3",
+  "Self": "https://tourism.opendatahub.bz.it/api/Activity/01CFEFF8DA586E548327E539276C42F3",
+  "Type": "Loipen",
+  "Areas": [
+    {
+      "Id": "C30DA5E46A194185A84AA8C774964E2A",
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/C30DA5E46A194185A84AA8C774964E2A"
+    }
+  ],
+  "SmgId": null,
+  "_Meta": {
+    "Id": "01CFEFF8DA586E548327E539276C42F3",
+    "Type": "ltsactivity",
+    "Source": "lts",
+    "LastUpdate": "2020-03-11T03:05:20.4746223"
+  },
+  "Active": true,
+  "AreaId": [
+    "C30DA5E46A194185A84AA8C774964E2A"
+  ],
+  "Detail": {
+    "de": {
+      "Title": "01 Toblacher Stadionrunde",
+      "Header": null,
+      "BaseText": "<p>Die anspruchsvolle Rundloipe ab dem Langlaufstadion in Toblach wird h&auml;ufig als Trainingsstrecke f&uuml;r verschiedene Langlauf-Nationalteams aus der ganzen Welt genutzt.</p><p>Diese Loipe wird am Montag und Donnerstag von 17.00 bis 20.00 Uhr mit Flutlicht beleuchtet. Die Ben&uuml;tzung ist kostenpflichtig.</p>",
+      "Keywords": null,
+      "Language": "de",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p>Wie Sie Toblach erreichen: <a href=\"https://www.drei-zinnen.info/de/toblach/toblach/kontakt-service/anreise-mobilitaet.html\">https://www.drei-zinnen.info/de/toblach/toblach/kontakt-service/anreise-mobilitaet.html</a></p><p>Von Toblach in Richtung S&uuml;den und weiter in den Ortsteil S&auml;ge.</p>",
+      "AdditionalText": "<p>Die 5 FIS-Strecken sind durchaus anspruchsvolle Rundstrecken mit abwechslungsreichen Anstiegen und Abfahrten. Start und Ziel der Strecken, auf denen regelm&auml;&szlig;ig Weltcuprennen stattfinden, ist jeweils im Langlaufstadion. Sie f&uuml;hren nach einer einheitlichen Startrunde im Stadion durch kupiertes, bewaldetes Gel&auml;nde am Eingang des H&ouml;hlensteintals. Sie weisen L&auml;ngen zwischen 1,4km und 5,4km auf und sind nach bekannten Toblacher Top-SportlerInnen aus dem Langlauf- und Biathlonbereich benannt.</p><p>Albert: Albert Walder (*1957), Toblacher Langl&auml;ufer, Mitglied der italienischen Langlaufstaffel bei den Olympischen Spielen 1988 in Calgary, mehrere Jahre Weltcupteilnehmer.</p>"
+    },
+    "en": {
+      "Title": "01 Cross Country Stadio Track Dobbiaco/Toblach",
+      "Header": null,
+      "BaseText": "<p>Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.</p><p>This trail will be floodlit on Monday and Thursday from 5:00 pm to 8:00 pm from. Use is subject to a fee.</p>",
+      "Keywords": null,
+      "Language": "en",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p>How to reach Dobbiaco/Toblach: <a href=\"https://www.drei-zinnen.info/en/dobbiaco/dobbiaco/contact-and-service/arrival-mobility.html\">https://www.drei-zinnen.info/en/dobbiaco/dobbiaco/contact-and-service/arrival-mobility.html</a></p><p>From Dobbiaco in southern direction and further on to the district S&auml;ge/Segheria.</p>",
+      "AdditionalText": "<p>The 5 FIS-Track (Stephanie: 3.8 km Ole: 3.75 km Nathalie: 5 km Saskia: 5 km Albert: Sprint 1.3 km) are very demanding round tracks with varied climbs and descents in the middle of the wood. The starting point and arrival of the tracks is direcly in the cross country stadium.</p><p>Albert: Albert Walder (*1957, Dobbiaco cross-country skier, member of the Italian cross-country relay team at the 1988 Olympic Games in Calgary, multi-time World Cup participant.</p>"
+    },
+    "it": {
+      "Title": "01 Giro dello stadio di Dobbiaco",
+      "Header": null,
+      "BaseText": "<p>La pista impegnativa che parte dallo stadio di sci da fondo di Dobbiaco spesso viene utilizzata come circuito d'allenamento dai teams sportivi di varie nazioni.</p><p>Questa pista da fondo &eacute; illuminate luned&igrave; e gioved&iacute; dalle ore 17.00 alle ore 20.00. L&rsquo;utilizzo &egrave; a pagamento.</p>",
+      "Keywords": null,
+      "Language": "it",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p>Come arrivare a Dobbiaco: <a href=\"https://www.tre-cime.info/it/dobbiaco/dobbiaco/contatto-servizi/arrivo-mobilita.html\">https://www.tre-cime.info/it/dobbiaco/dobbiaco/contatto-servizi/arrivo-mobilita.html</a></p><p>Da Dobbiaco in direzione sud proseguendo fino alla localit&agrave; Segheria.</p>",
+      "AdditionalText": "<p>I 5 tracciati omologati FIS, ogni anno teatro anche delle gare di Coppa del Mondo, sono circuiti piuttosto impegnativi con un&rsquo;alternanza di salite e discese. Il punto di partenza e di arrivo dei singoli tracciati si trovano all&rsquo;interno dello stadio del fondo, dove si effettua il primo giro, per poi percorrere, su un terreno ondulato e boschivo, il tratto iniziale della Valle di Landro. La lunghezza degli itinerari varia da 1,4 km a 5,4 km e la loro denominazione ricorda i famosi atleti di fondo e biathlon di Dobbiaco.</p><p>Albert: Albert Walder (*1957), fondista di Dobbiaco, membro della squadra azzurra nella staffetta di fondo ai Giochi Olimpici di Calgary nel 1988. Ha partecipato per diversi anni alle gare di Coppa del Mondo.</p>"
+    }
+  },
+  "IsOpen": false,
+  "GpsInfo": [
+    {
+      "Gpstype": "Start und Ziel",
+      "Altitude": 1217.0,
+      "Latitude": 46.718797,
+      "Longitude": 12.223967,
+      "AltitudeUnitofMeasure": "m"
+    }
+  ],
+  "LTSTags": [],
+  "ODHTags": [
+    {
+      "Id": "loipen",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/loipen"
+    },
+    {
+      "Id": "klassisch und skating",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/klassisch%20und%20skating"
+    }
+  ],
+  "PoiType": "blau",
+  "Ratings": {
+    "Stamina": "4",
+    "Landscape": "3",
+    "Technique": "4",
+    "Difficulty": "2",
+    "Experience": "3"
+  },
+  "SmgTags": [
+    "loipen",
+    "klassisch und skating"
+  ],
+  "SubType": "klassisch und Freistil",
+  "GpsTrack": [
+    {
+      "Id": "28D640B9B87F8FBA57153F685BCB7A41",
+      "Type": "overview",
+      "GpxTrackUrl": "https://lcs.lts.it/downloads/gpx/522822A751CA11D18F1400A02427D15E/929A071DF22BB88A2563E3C2AECA7689_ov.gpx",
+      "GpxTrackDesc": {
+        "de": "Übersicht",
+        "en": "overview",
+        "it": "compendio"
+      }
+    },
+    {
+      "Id": "929A071DF22BB88A2563E3C2AECA7689",
+      "Type": "detailed",
+      "GpxTrackUrl": "https://lcs.lts.it/downloads/gpx/522822A751CA11D18F1400A02427D15E/929A071DF22BB88A2563E3C2AECA7689.gpx",
+      "GpxTrackDesc": {
+        "de": "Datei zum herunterladen",
+        "en": "File to download",
+        "it": "scaricare dato"
+      }
+    }
+  ],
+  "OwnerRid": "522822A751CA11D18F1400A02427D15E",
+  "FeetClimb": false,
+  "GpsPoints": {
+    "position": {
+      "Gpstype": "Start und Ziel",
+      "Altitude": 1217.0,
+      "Latitude": 46.718797,
+      "Longitude": 12.223967,
+      "AltitudeUnitofMeasure": "m"
+    }
+  },
+  "Highlight": false,
+  "OdhActive": true,
+  "Shortname": "01 Toblacher Stadionrunde",
+  "SmgActive": true,
+  "WayNumber": null,
+  "Difficulty": "2",
+  "Exposition": [],
+  "HasRentals": false,
+  "IsPrepared": false,
+  "LastChange": "2020-03-11T03:05:20.4746223",
+  "ChildPoiIds": null,
+  "FirstImport": "2015-03-30T16:18:45.9693509",
+  "HasLanguage": [
+    "de",
+    "it",
+    "en"
+  ],
+  "IsWithLigth": false,
+  "LicenseInfo": {
+    "Author": "",
+    "License": "CC0",
+    "ClosedData": false,
+    "LicenseHolder": "https://www.lts.it"
+  },
+  "RunToValley": false,
+  "ContactInfos": {
+    "de": {
+      "Tax": null,
+      "Url": "http://www.toblach.info",
+      "Vat": null,
+      "City": "Toblach",
+      "Email": "info@toblach.info",
+      "Address": "Dolomitenstraße 3",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39034",
+      "Language": "de",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Tourist Info Toblach",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 972132"
+    },
+    "en": {
+      "Tax": null,
+      "Url": "http://www.toblach.info",
+      "Vat": null,
+      "City": "Dobbiaco/Toblach",
+      "Email": "info@toblach.info",
+      "Address": "Via Dolomiti 3",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39034",
+      "Language": "en",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Toruist Info Dobbiaco/Toblach",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 972132"
+    },
+    "it": {
+      "Tax": null,
+      "Url": "http://www.toblach.info",
+      "Vat": null,
+      "City": "Dobbiaco",
+      "Email": "info@toblach.info",
+      "Address": "Via Dolomiti 3",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39034",
+      "Language": "it",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Touritst Info Dobbiaco",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 972132"
+    }
+  },
+  "ImageGallery": [],
+  "LocationInfo": {
+    "TvInfo": {
+      "Id": "522822A751CA11D18F1400A02427D15E",
+      "Name": {
+        "cs": "Toblach/Dobbiaco",
+        "de": "Toblach",
+        "en": "Toblach/Dobbiaco",
+        "fr": "Toblach/Dobbiaco",
+        "it": "Dobbiaco",
+        "nl": "Toblach/Dobbiaco",
+        "pl": "Toblach/Dobbiaco",
+        "ru": "Тоблах/Dobbiaco"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/TourismAssociation/522822A751CA11D18F1400A02427D15E"
+    },
+    "AreaInfo": {
+      "Id": "C30DA5E46A194185A84AA8C774964E2A",
+      "Name": {
+        "cs": "Toblach ",
+        "de": "Toblach ",
+        "en": "Toblach ",
+        "fr": "Toblach ",
+        "it": "Toblach ",
+        "nl": "Toblach ",
+        "pl": "Toblach ",
+        "ru": "Toblach "
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/C30DA5E46A194185A84AA8C774964E2A"
+    },
+    "RegionInfo": {
+      "Id": "D2633A1FC24E11D18F1B006097B8970B",
+      "Name": {
+        "cs": "Oblast Drei Zinnen Dolomity",
+        "de": "Dolomitenregion Drei Zinnen",
+        "en": "Dolomites Region Three Peaks",
+        "fr": "Région des Dolomites Drei Zinnen",
+        "it": "Regione dolomitica Tre Cime",
+        "nl": "Dolomietenregio Drei Zinnen",
+        "pl": "Region Drei Zinnen w Dolomitach",
+        "ru": "регион Драй-Циннен, Доломиты"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/Region/D2633A1FC24E11D18F1B006097B8970B"
+    },
+    "DistrictInfo": null,
+    "MunicipalityInfo": null
+  },
+  "MasterPoiIds": null,
+  "ActivityTypes": [
+    {
+      "Id": "Loipen",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/Loipen",
+      "Type": "Type"
+    },
+    {
+      "Id": "klassisch und Freistil",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/klassisch%20und%20Freistil",
+      "Type": "SubType"
+    },
+    {
+      "Id": "blau",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/blau",
+      "Type": "PoiType"
+    }
+  ],
+  "AltitudeSumUp": 38.0,
+  "BikeTransport": false,
+  "LiftAvailable": false,
+  "DistanceLength": 1400.0,
+  "AltitudeSumDown": 39.0,
+  "HasFreeEntrance": false,
+  "OutdooractiveID": "19610053",
+  "CopyrightChecked": true,
+  "DistanceDuration": 0.0,
+  "OperationSchedule": [
+    {
+      "Stop": "2020-03-01T00:00:00",
+      "Type": "3",
+      "Start": "1900-01-01T00:00:00",
+      "OperationScheduleTime": null,
+      "OperationscheduleName": {
+        "de": ""
+      }
+    },
+    {
+      "Stop": "2020-12-01T00:00:00",
+      "Type": "3",
+      "Start": "2020-12-01T00:00:00",
+      "OperationScheduleTime": null,
+      "OperationscheduleName": {
+        "de": ""
+      }
+    }
+  ],
+  "AdditionalPoiInfos": {
+    "de": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "klassisch und Freistil",
+      "Language": "de",
+      "MainType": "Loipen"
+    },
+    "en": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "klassisch und Freistil",
+      "Language": "en",
+      "MainType": "Cross-country ski-tracks"
+    },
+    "it": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "Classica e stile libero",
+      "Language": "it",
+      "MainType": "Pista di fondo"
+    }
+  },
+  "AltitudeDifference": 0.0,
+  "AltitudeLowestPoint": 1216.0,
+  "AltitudeHighestPoint": 1235.0,
+  "TourismorganizationId": "522822A751CA11D18F1400A02427D15E",
+  "OutdooractiveElevationID": "19610100"
+},{
+  "Id": "B66FA66DA650717E0964A4E30A716DAE",
+  "Self": "https://tourism.opendatahub.bz.it/api/Activity/B66FA66DA650717E0964A4E30A716DAE",
+  "Type": "Loipen",
+  "Areas": [
+    {
+      "Id": "C30DA5E46A194185A84AA8C774964E2A",
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/C30DA5E46A194185A84AA8C774964E2A"
+    }
+  ],
+  "SmgId": null,
+  "_Meta": {
+    "Id": "B66FA66DA650717E0964A4E30A716DAE",
+    "Type": "ltsactivity",
+    "Source": "lts",
+    "LastUpdate": "2020-08-08T03:05:10.5513494"
+  },
+  "Active": true,
+  "AreaId": [
+    "C30DA5E46A194185A84AA8C774964E2A"
+  ],
+  "Detail": {
+    "de": {
+      "Title": "02 Langlaufstadion Toblach Fisloipe - Stephanie",
+      "Header": null,
+      "BaseText": "<p>Die anspruchsvolle Rundloipe ab dem Langlaufstadion in Toblach wird h&auml;ufig als Trainingsstrecke f&uuml;r verschiedene Langlauf-Nationalteams aus der ganzen Welt genutzt.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>",
+      "Keywords": null,
+      "Language": "de",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p>Wie Sie Toblach erreichen: <a href=\"https://www.drei-zinnen.info/de/toblach/toblach/kontakt-service/anreise-mobilitaet.html\">https://www.drei-zinnen.info/de/toblach/toblach/kontakt-service/anreise-mobilitaet.html</a></p>\r\n<p>Von Toblach in Richtung S&uuml;den und weiter in den Ortsteil S&auml;ge.</p>",
+      "AdditionalText": "<p>Die 5 FIS-Strecken sind durchaus anspruchsvolle Rundstrecken mit abwechslungsreichen Anstiegen und Abfahrten. Start und Ziel der Strecken, auf denen regelm&auml;&szlig;ig Weltcuprennen stattfinden, ist jeweils im Langlaufstadion. Sie f&uuml;hren nach einer einheitlichen Startrunde im Stadion durch kupiertes, bewaldetes Gel&auml;nde am Eingang des H&ouml;hlensteintals. Sie weisen L&auml;ngen zwischen 1,4km und 5,4km auf und sind nach bekannten Toblacher Top-SportlerInnen aus dem Langlauf- und Biathlonbereich benannt.</p>\r\n<p>Stephanie: Stephanie Santer (*1981), Toblacher Langl&auml;uferin. War im italienischen Nationalkader, mehrere Weltcupeins&auml;tze, nominiert f&uuml;r Olympia 2006 in Torino.</p>"
+    },
+    "en": {
+      "Title": "02 Cross Country Stadio Dobbiaco/Toblach FISI - Stephanie",
+      "Header": null,
+      "BaseText": "<p>Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.</p>\r\n<p>&nbsp;</p>",
+      "Keywords": null,
+      "Language": "en",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p>How to reach Dobbiaco/Toblach: <a href=\"https://www.drei-zinnen.info/en/dobbiaco/dobbiaco/contact-and-service/arrival-mobility.html\">https://www.drei-zinnen.info/en/dobbiaco/dobbiaco/contact-and-service/arrival-mobility.html</a></p>\r\n<p>From Dobbiaco in southern direction and further on to the district S&auml;ge/Segheria.</p>",
+      "AdditionalText": "<p>The 5 FIS-Track (Stephanie: 3.8 km Ole: 3.75 km Nathalie: 5 km Saskia: 5 km Albert: Sprint 1.3 km) are very demanding round tracks with varied climbs and descents in the middle of the wood. The starting point and arrival of the tracks is direcly in the cross country stadium.</p>\r\n<p>Stephanie: Stephanie Santer (*1981), Dobbiaco cross-country skier. Was member of the Italian national team, multiple World cup attendance, nominated for the 2006 Olympics in Turin.</p>"
+    },
+    "it": {
+      "Title": "02 Stadio sci da fondo Dobbiaco pista FISI - Stephanie",
+      "Header": null,
+      "BaseText": "<p>La pista impegnativa che parte dallo stadio di sci da fondo di Dobbiaco spesso viene utilizzata come circuito d'allenamento dai teams sportivi di varie nazioni.</p>\r\n<p>&nbsp;</p>",
+      "Keywords": null,
+      "Language": "it",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p>Come arrivare a Dobbiaco: <a href=\"https://www.tre-cime.info/it/dobbiaco/dobbiaco/contatto-servizi/arrivo-mobilita.html\">https://www.tre-cime.info/it/dobbiaco/dobbiaco/contatto-servizi/arrivo-mobilita.html</a></p>\r\n<p>Da Dobbiaco in direzione sud proseguendo fino alla localit&agrave; Segheria.</p>",
+      "AdditionalText": "<p>I 5 tracciati omologati FIS, ogni anno teatro anche delle gare di Coppa del Mondo, sono circuiti piuttosto impegnativi con un&rsquo;alternanza di salite e discese. Il punto di partenza e di arrivo dei singoli tracciati si trovano all&rsquo;interno dello stadio del fondo, dove si effettua il primo giro, per poi percorrere, su un terreno ondulato e boschivo, il tratto iniziale della Valle di Landro. La lunghezza degli itinerari varia da 1,4 km a 5,4 km e la loro denominazione ricorda i famosi atleti di fondo e biathlon di Dobbiaco.</p>\r\n<p>Stephanie: Stephanie Santer (*1981), fondista di Dobbiaco, era nella Nazionale Italiana. Oltre ad aver gareggiato in diverse edizioni di Coppa del Mondo, si &egrave; qualificata per le Olimpiadi di Torino 2006.</p>"
+    }
+  },
+  "IsOpen": false,
+  "GpsInfo": [
+    {
+      "Gpstype": "Start und Ziel",
+      "Altitude": 1216.0,
+      "Latitude": 46.71875,
+      "Longitude": 12.22372,
+      "AltitudeUnitofMeasure": "m"
+    }
+  ],
+  "LTSTags": [],
+  "ODHTags": [
+    {
+      "Id": "loipen",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/loipen"
+    },
+    {
+      "Id": "klassisch und skating",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/klassisch%20und%20skating"
+    }
+  ],
+  "PoiType": "schwarz",
+  "Ratings": {
+    "Stamina": "6",
+    "Landscape": "4",
+    "Technique": "6",
+    "Difficulty": "6",
+    "Experience": "4"
+  },
+  "SmgTags": [
+    "loipen",
+    "klassisch und skating"
+  ],
+  "SubType": "klassisch und Freistil",
+  "GpsTrack": [
+    {
+      "Id": "6D40ACAE374491DF7975FD6FB8F0B8CA",
+      "Type": "detailed",
+      "GpxTrackUrl": "https://lcs.lts.it/downloads/gpx/522822A751CA11D18F1400A02427D15E/6D40ACAE374491DF7975FD6FB8F0B8CA.gpx",
+      "GpxTrackDesc": {
+        "de": "Datei zum herunterladen",
+        "en": "File to download",
+        "it": "scaricare dato"
+      }
+    },
+    {
+      "Id": "EF7DA4FD1A731110A7358286F77ECCA8",
+      "Type": "overview",
+      "GpxTrackUrl": "https://lcs.lts.it/downloads/gpx/522822A751CA11D18F1400A02427D15E/6D40ACAE374491DF7975FD6FB8F0B8CA_ov.gpx",
+      "GpxTrackDesc": {
+        "de": "Übersicht",
+        "en": "overview",
+        "it": "compendio"
+      }
+    }
+  ],
+  "OwnerRid": "522822A751CA11D18F1400A02427D15E",
+  "FeetClimb": false,
+  "GpsPoints": {
+    "position": {
+      "Gpstype": "Start und Ziel",
+      "Altitude": 1216.0,
+      "Latitude": 46.71875,
+      "Longitude": 12.22372,
+      "AltitudeUnitofMeasure": "m"
+    }
+  },
+  "Highlight": false,
+  "OdhActive": true,
+  "Shortname": "02 Langlaufstadion Toblach Fisloipe - Stephanie",
+  "SmgActive": true,
+  "WayNumber": null,
+  "Difficulty": "6",
+  "Exposition": [],
+  "HasRentals": false,
+  "IsPrepared": false,
+  "LastChange": "2020-08-08T03:05:10.5513494",
+  "ChildPoiIds": null,
+  "FirstImport": "2015-03-30T16:18:51.6009608",
+  "HasLanguage": [
+    "de",
+    "it",
+    "en"
+  ],
+  "IsWithLigth": false,
+  "LicenseInfo": {
+    "Author": "",
+    "License": "CC0",
+    "ClosedData": false,
+    "LicenseHolder": "https://www.lts.it"
+  },
+  "RunToValley": false,
+  "ContactInfos": {
+    "de": {
+      "Tax": null,
+      "Url": "http://www.toblach.info",
+      "Vat": null,
+      "City": "Toblach",
+      "Email": "info@toblach.info",
+      "Address": "Dolomitenstraße 3",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39034",
+      "Language": "de",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Tourist Info Toblach",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 972132"
+    },
+    "en": {
+      "Tax": null,
+      "Url": "http://www.toblach.info",
+      "Vat": null,
+      "City": "Dobbiaco/Toblach",
+      "Email": "info@toblach.info",
+      "Address": "Via Dolomiti 3",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39034",
+      "Language": "en",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Toruist Info Dobbiaco/Toblach",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 972132"
+    },
+    "it": {
+      "Tax": null,
+      "Url": "http://www.toblach.info",
+      "Vat": null,
+      "City": "Dobbiaco",
+      "Email": "info@toblach.info",
+      "Address": "Via Dolomiti 3",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39034",
+      "Language": "it",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Touritst Info Dobbiaco",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 972132"
+    }
+  },
+  "ImageGallery": [],
+  "LocationInfo": {
+    "TvInfo": {
+      "Id": "522822A751CA11D18F1400A02427D15E",
+      "Name": {
+        "cs": "Toblach/Dobbiaco",
+        "de": "Toblach",
+        "en": "Toblach/Dobbiaco",
+        "fr": "Toblach/Dobbiaco",
+        "it": "Dobbiaco",
+        "nl": "Toblach/Dobbiaco",
+        "pl": "Toblach/Dobbiaco",
+        "ru": "Тоблах/Dobbiaco"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/TourismAssociation/522822A751CA11D18F1400A02427D15E"
+    },
+    "AreaInfo": {
+      "Id": "C30DA5E46A194185A84AA8C774964E2A",
+      "Name": {
+        "cs": "Toblach ",
+        "de": "Toblach ",
+        "en": "Toblach ",
+        "fr": "Toblach ",
+        "it": "Toblach ",
+        "nl": "Toblach ",
+        "pl": "Toblach ",
+        "ru": "Toblach "
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/C30DA5E46A194185A84AA8C774964E2A"
+    },
+    "RegionInfo": {
+      "Id": "D2633A1FC24E11D18F1B006097B8970B",
+      "Name": {
+        "cs": "Oblast Drei Zinnen Dolomity",
+        "de": "Dolomitenregion Drei Zinnen",
+        "en": "Dolomites Region Three Peaks",
+        "fr": "Région des Dolomites Drei Zinnen",
+        "it": "Regione dolomitica Tre Cime",
+        "nl": "Dolomietenregio Drei Zinnen",
+        "pl": "Region Drei Zinnen w Dolomitach",
+        "ru": "регион Драй-Циннен, Доломиты"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/Region/D2633A1FC24E11D18F1B006097B8970B"
+    },
+    "DistrictInfo": null,
+    "MunicipalityInfo": null
+  },
+  "MasterPoiIds": null,
+  "ActivityTypes": [
+    {
+      "Id": "Loipen",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/Loipen",
+      "Type": "Type"
+    },
+    {
+      "Id": "klassisch und Freistil",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/klassisch%20und%20Freistil",
+      "Type": "SubType"
+    },
+    {
+      "Id": "schwarz",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/schwarz",
+      "Type": "PoiType"
+    }
+  ],
+  "AltitudeSumUp": 129.0,
+  "BikeTransport": false,
+  "LiftAvailable": false,
+  "DistanceLength": 3900.0,
+  "AltitudeSumDown": 129.0,
+  "HasFreeEntrance": false,
+  "OutdooractiveID": "16419935",
+  "CopyrightChecked": true,
+  "DistanceDuration": 0.0,
+  "OperationSchedule": [
+    {
+      "Stop": "2015-03-31T00:00:00",
+      "Type": "1",
+      "Start": "2014-12-01T00:00:00",
+      "OperationScheduleTime": null,
+      "OperationscheduleName": {
+        "de": "täglich von 09.00 Uhr bis 17.00 Uhr"
+      }
+    }
+  ],
+  "AdditionalPoiInfos": {
+    "de": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "klassisch und Freistil",
+      "Language": "de",
+      "MainType": "Loipen"
+    },
+    "en": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "klassisch und Freistil",
+      "Language": "en",
+      "MainType": "Cross-country ski-tracks"
+    },
+    "it": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "Classica e stile libero",
+      "Language": "it",
+      "MainType": "Pista di fondo"
+    }
+  },
+  "AltitudeDifference": 0.0,
+  "AltitudeLowestPoint": 1216.0,
+  "AltitudeHighestPoint": 1281.0,
+  "TourismorganizationId": "522822A751CA11D18F1400A02427D15E",
+  "OutdooractiveElevationID": "16422665"
+},{
+  "Id": "98DCCBB4D6A1F8CC477D9631A8B703F8",
+  "Self": "https://tourism.opendatahub.bz.it/api/Activity/98DCCBB4D6A1F8CC477D9631A8B703F8",
+  "Type": "Loipen",
+  "Areas": [
+    {
+      "Id": "C30DA5E46A194185A84AA8C774964E2A",
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/C30DA5E46A194185A84AA8C774964E2A"
+    }
+  ],
+  "SmgId": null,
+  "_Meta": {
+    "Id": "98DCCBB4D6A1F8CC477D9631A8B703F8",
+    "Type": "ltsactivity",
+    "Source": "lts",
+    "LastUpdate": "2020-08-08T03:05:10.1441222"
+  },
+  "Active": true,
+  "AreaId": [
+    "C30DA5E46A194185A84AA8C774964E2A"
+  ],
+  "Detail": {
+    "de": {
+      "Title": "03 Langlaufstadion Toblach Fisloipe - Ole",
+      "Header": null,
+      "BaseText": "<p>Die anspruchsvolle Rundloipe ab dem Langlaufstadion in Toblach wird h&auml;ufig als Trainingsstrecke f&uuml;r verschiedene Langlauf-Nationalteams aus der ganzen Welt genutzt.</p>\r\n<p>&nbsp;</p>",
+      "Keywords": null,
+      "Language": "de",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p>Wie Sie Toblach erreichen: <a href=\"https://www.drei-zinnen.info/de/toblach/toblach/kontakt-service/anreise-mobilitaet.html\">https://www.drei-zinnen.info/de/toblach/toblach/kontakt-service/anreise-mobilitaet.html</a></p>\r\n<p>Von Toblach in Richtung S&uuml;den und weiter in den Ortsteil S&auml;ge.</p>",
+      "AdditionalText": "<p>Die 5 FIS-Strecken sind durchaus anspruchsvolle Rundstrecken mit abwechslungsreichen Anstiegen und Abfahrten. Start und Ziel der Strecken, auf denen regelm&auml;&szlig;ig Weltcuprennen stattfinden, ist jeweils im Langlaufstadion. Sie f&uuml;hren nach einer einheitlichen Startrunde im Stadion durch kupiertes, bewaldetes Gel&auml;nde am Eingang des H&ouml;hlensteintals. Sie weisen L&auml;ngen zwischen 1,4km und 5,4km auf und sind nach bekannten Toblacher Top-SportlerInnen aus dem Langlauf- und Biathlonbereich benannt.</p>\r\n<p>Ole: Ole Einar Bj&oslash;rndalen (*1974), EX-Norwegischer Biathlet, mehrfacher Olympiasieger, Weltmeister und Weltcupgesamtsieger.</p>\r\n<p>&nbsp;</p>"
+    },
+    "en": {
+      "Title": "03 Cross Country Stadio Dobbiaco/Toblach FISI - Ole",
+      "Header": null,
+      "BaseText": "<p>Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>",
+      "Keywords": null,
+      "Language": "en",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p>How to reach Dobbiaco/Toblach: <a href=\"https://www.drei-zinnen.info/en/dobbiaco/dobbiaco/contact-and-service/arrival-mobility.html\">https://www.drei-zinnen.info/en/dobbiaco/dobbiaco/contact-and-service/arrival-mobility.html</a></p>\r\n<p>From Dobbiaco in southern direction and further on to the district S&auml;ge/Segheria.</p>",
+      "AdditionalText": "<p>The 5 FIS-Track (Stephanie: 3.8 km Ole: 3.75 km Nathalie: 5 km Saskia: 5 km Albert: Sprint 1.3 km) are very demanding round tracks with varied climbs and descents in the middle of the wood. The starting point and arrival of the tracks is direcly in the cross country stadium.</p>\r\n<p>Ole: Ole Einar Bj&oslash;rndalen (*1974), Ex-Norwegian biathlete, multiple Olympic champion, world champion and overall World Cup winner.</p>"
+    },
+    "it": {
+      "Title": "03 Stadio sci da fondo pista Dobbiaco FISI - Ole",
+      "Header": null,
+      "BaseText": "<p>La pista impegnativa che parte dallo stadio di sci da fondo di Dobbiaco spesso viene utilizzata come circuito d'allenamento dai teams sportivi di varie nazioni.</p>\r\n<p>&nbsp;</p>",
+      "Keywords": null,
+      "Language": "it",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p>Come arrivare a Dobbiaco: <a href=\"https://www.tre-cime.info/it/dobbiaco/dobbiaco/contatto-servizi/arrivo-mobilita.html\">https://www.tre-cime.info/it/dobbiaco/dobbiaco/contatto-servizi/arrivo-mobilita.html</a></p>\r\n<p>Da Dobbiaco in direzione sud proseguendo fino alla localit&agrave; Segheria.</p>",
+      "AdditionalText": "<p>I 5 tracciati omologati FIS, ogni anno teatro anche delle gare di Coppa del Mondo, sono circuiti piuttosto impegnativi con un&rsquo;alternanza di salite e discese. Il punto di partenza e di arrivo dei singoli tracciati si trovano all&rsquo;interno dello stadio del fondo, dove si effettua il primo giro, per poi percorrere, su un terreno ondulato e boschivo, il tratto iniziale della Valle di Landro. La lunghezza degli itinerari varia da 1,4 km a 5,4 km e la loro denominazione ricorda i famosi atleti di fondo e biathlon di Dobbiaco.</p>\r\n<p>Ole: Ole Einar Bj&oslash;rndalen (*1974), ex-biatleta norvegese, plurimedagliato ai Giochi Olimpici e ai Campionati mondiali nonch&eacute; pi&ugrave; volte vincitore della Coppa del Mondo.</p>"
+    }
+  },
+  "IsOpen": false,
+  "GpsInfo": [
+    {
+      "Gpstype": "Start und Ziel",
+      "Altitude": 1217.0,
+      "Latitude": 46.718804,
+      "Longitude": 12.223999,
+      "AltitudeUnitofMeasure": "m"
+    }
+  ],
+  "LTSTags": [],
+  "ODHTags": [
+    {
+      "Id": "loipen",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/loipen"
+    },
+    {
+      "Id": "klassisch und skating",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/klassisch%20und%20skating"
+    }
+  ],
+  "PoiType": "schwarz",
+  "Ratings": {
+    "Stamina": "6",
+    "Landscape": "3",
+    "Technique": "6",
+    "Difficulty": "6",
+    "Experience": "3"
+  },
+  "SmgTags": [
+    "loipen",
+    "klassisch und skating"
+  ],
+  "SubType": "klassisch und Freistil",
+  "GpsTrack": [
+    {
+      "Id": "22C290EAEB0C93021FE3834ADCC4A0F4",
+      "Type": "overview",
+      "GpxTrackUrl": "https://lcs.lts.it/downloads/gpx/522822A751CA11D18F1400A02427D15E/53A0DD095A4947C98B59BE5F42EC2E84_ov.gpx",
+      "GpxTrackDesc": {
+        "de": "Übersicht",
+        "en": "overview",
+        "it": "compendio"
+      }
+    },
+    {
+      "Id": "53A0DD095A4947C98B59BE5F42EC2E84",
+      "Type": "detailed",
+      "GpxTrackUrl": "https://lcs.lts.it/downloads/gpx/522822A751CA11D18F1400A02427D15E/53A0DD095A4947C98B59BE5F42EC2E84.gpx",
+      "GpxTrackDesc": {
+        "de": "Datei zum herunterladen",
+        "en": "File to download",
+        "it": "scaricare dato"
+      }
+    }
+  ],
+  "OwnerRid": "522822A751CA11D18F1400A02427D15E",
+  "FeetClimb": false,
+  "GpsPoints": {
+    "position": {
+      "Gpstype": "Start und Ziel",
+      "Altitude": 1217.0,
+      "Latitude": 46.718804,
+      "Longitude": 12.223999,
+      "AltitudeUnitofMeasure": "m"
+    }
+  },
+  "Highlight": false,
+  "OdhActive": true,
+  "Shortname": "03 Langlaufstadion Toblach Fisloipe - Ole",
+  "SmgActive": true,
+  "WayNumber": null,
+  "Difficulty": "6",
+  "Exposition": [],
+  "HasRentals": false,
+  "IsPrepared": false,
+  "LastChange": "2020-08-08T03:05:10.1441222",
+  "ChildPoiIds": null,
+  "FirstImport": "2015-03-30T16:20:12.596303",
+  "HasLanguage": [
+    "de",
+    "it",
+    "en"
+  ],
+  "IsWithLigth": false,
+  "LicenseInfo": {
+    "Author": "",
+    "License": "CC0",
+    "ClosedData": false,
+    "LicenseHolder": "https://www.lts.it"
+  },
+  "RunToValley": false,
+  "ContactInfos": {
+    "de": {
+      "Tax": null,
+      "Url": "http://www.toblach.info",
+      "Vat": null,
+      "City": "Toblach",
+      "Email": "info@toblach.info",
+      "Address": "Dolomitenstraße 3",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39034",
+      "Language": "de",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Tourist Info Toblach",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 972132"
+    },
+    "en": {
+      "Tax": null,
+      "Url": "http://www.toblach.info",
+      "Vat": null,
+      "City": "Dobbiaco/Toblach",
+      "Email": "info@toblach.info",
+      "Address": "Via Dolomiti 3",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39034",
+      "Language": "en",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Toruist Info Dobbiaco/Toblach",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 972132"
+    },
+    "it": {
+      "Tax": null,
+      "Url": "http://www.toblach.info",
+      "Vat": null,
+      "City": "Dobbiaco",
+      "Email": "info@toblach.info",
+      "Address": "Via Dolomiti 3",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39034",
+      "Language": "it",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Touritst Info Dobbiaco",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 972132"
+    }
+  },
+  "ImageGallery": [],
+  "LocationInfo": {
+    "TvInfo": {
+      "Id": "522822A751CA11D18F1400A02427D15E",
+      "Name": {
+        "cs": "Toblach/Dobbiaco",
+        "de": "Toblach",
+        "en": "Toblach/Dobbiaco",
+        "fr": "Toblach/Dobbiaco",
+        "it": "Dobbiaco",
+        "nl": "Toblach/Dobbiaco",
+        "pl": "Toblach/Dobbiaco",
+        "ru": "Тоблах/Dobbiaco"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/TourismAssociation/522822A751CA11D18F1400A02427D15E"
+    },
+    "AreaInfo": {
+      "Id": "C30DA5E46A194185A84AA8C774964E2A",
+      "Name": {
+        "cs": "Toblach ",
+        "de": "Toblach ",
+        "en": "Toblach ",
+        "fr": "Toblach ",
+        "it": "Toblach ",
+        "nl": "Toblach ",
+        "pl": "Toblach ",
+        "ru": "Toblach "
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/C30DA5E46A194185A84AA8C774964E2A"
+    },
+    "RegionInfo": {
+      "Id": "D2633A1FC24E11D18F1B006097B8970B",
+      "Name": {
+        "cs": "Oblast Drei Zinnen Dolomity",
+        "de": "Dolomitenregion Drei Zinnen",
+        "en": "Dolomites Region Three Peaks",
+        "fr": "Région des Dolomites Drei Zinnen",
+        "it": "Regione dolomitica Tre Cime",
+        "nl": "Dolomietenregio Drei Zinnen",
+        "pl": "Region Drei Zinnen w Dolomitach",
+        "ru": "регион Драй-Циннен, Доломиты"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/Region/D2633A1FC24E11D18F1B006097B8970B"
+    },
+    "DistrictInfo": null,
+    "MunicipalityInfo": null
+  },
+  "MasterPoiIds": null,
+  "ActivityTypes": [
+    {
+      "Id": "Loipen",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/Loipen",
+      "Type": "Type"
+    },
+    {
+      "Id": "klassisch und Freistil",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/klassisch%20und%20Freistil",
+      "Type": "SubType"
+    },
+    {
+      "Id": "schwarz",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/schwarz",
+      "Type": "PoiType"
+    }
+  ],
+  "AltitudeSumUp": 146.0,
+  "BikeTransport": false,
+  "LiftAvailable": false,
+  "DistanceLength": 4200.0,
+  "AltitudeSumDown": 147.0,
+  "HasFreeEntrance": false,
+  "OutdooractiveID": "16570624",
+  "CopyrightChecked": true,
+  "DistanceDuration": 0.0,
+  "OperationSchedule": [
+    {
+      "Stop": "2020-03-01T00:00:00",
+      "Type": "3",
+      "Start": "1900-01-01T00:00:00",
+      "OperationScheduleTime": null,
+      "OperationscheduleName": {
+        "de": ""
+      }
+    },
+    {
+      "Stop": "2020-12-01T00:00:00",
+      "Type": "3",
+      "Start": "2020-12-01T00:00:00",
+      "OperationScheduleTime": null,
+      "OperationscheduleName": {
+        "de": ""
+      }
+    }
+  ],
+  "AdditionalPoiInfos": {
+    "de": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "klassisch und Freistil",
+      "Language": "de",
+      "MainType": "Loipen"
+    },
+    "en": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "klassisch und Freistil",
+      "Language": "en",
+      "MainType": "Cross-country ski-tracks"
+    },
+    "it": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "Classica e stile libero",
+      "Language": "it",
+      "MainType": "Pista di fondo"
+    }
+  },
+  "AltitudeDifference": 0.0,
+  "AltitudeLowestPoint": 1215.0,
+  "AltitudeHighestPoint": 1281.0,
+  "TourismorganizationId": "522822A751CA11D18F1400A02427D15E",
+  "OutdooractiveElevationID": "16571755"
+},{
+  "Id": "8683D8A950D921AEC3E8FECADD8928B8",
+  "Self": "https://tourism.opendatahub.bz.it/api/Activity/8683D8A950D921AEC3E8FECADD8928B8",
+  "Type": "Loipen",
+  "Areas": [
+    {
+      "Id": "C30DA5E46A194185A84AA8C774964E2A",
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/C30DA5E46A194185A84AA8C774964E2A"
+    }
+  ],
+  "SmgId": null,
+  "_Meta": {
+    "Id": "8683D8A950D921AEC3E8FECADD8928B8",
+    "Type": "ltsactivity",
+    "Source": "lts",
+    "LastUpdate": "2020-08-08T03:05:09.716386"
+  },
+  "Active": true,
+  "AreaId": [
+    "C30DA5E46A194185A84AA8C774964E2A"
+  ],
+  "Detail": {
+    "de": {
+      "Title": "04 Langlaufstadion Toblach Fisloipe - Nathalie",
+      "Header": null,
+      "BaseText": "<p>Die anspruchsvolle Rundloipe ab dem Langlaufstadion in Toblach wird h&auml;ufig als Trainingsstrecke f&uuml;r verschiedene Langlauf-Nationalteams aus der ganzen Welt genutzt.</p>\r\n<p>&nbsp;</p>",
+      "Keywords": null,
+      "Language": "de",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p>Wie Sie Toblach erreichen: <a href=\"https://www.drei-zinnen.info/de/toblach/toblach/kontakt-service/anreise-mobilitaet.html\">https://www.drei-zinnen.info/de/toblach/toblach/kontakt-service/anreise-mobilitaet.html</a></p>\r\n<p>Von Toblach in Richtung S&uuml;den und weiter in den Ortsteil S&auml;ge.</p>",
+      "AdditionalText": "<p>Die 5 FIS-Strecken sind durchaus anspruchsvolle Rundstrecken mit abwechslungsreichen Anstiegen und Abfahrten. Start und Ziel der Strecken, auf denen regelm&auml;&szlig;ig Weltcuprennen stattfinden, ist jeweils im Langlaufstadion. Sie f&uuml;hren nach einer einheitlichen Startrunde im Stadion durch kupiertes, bewaldetes Gel&auml;nde am Eingang des H&ouml;hlensteintals. Sie weisen L&auml;ngen zwischen 1,4km und 5,4km auf und sind nach bekannten Toblacher Top-SportlerInnen aus dem Langlauf- und Biathlonbereich benannt.</p>\r\n<p>Nathalie: Nathalie Santer- (*1972), Toblacher Ex-Biathletin. 3 Weltcupsiege und zahllose Top10-Platzierungen, f&uuml;nffache Olympiateilnehmerin (Albertville 1992, Lillehammer 1994, Nagano 1998, Salt Lake City 2002 und Torino 2006)</p>"
+    },
+    "en": {
+      "Title": "04 Cross Country Stadio Dobbiaco/Toblach FISI - Nathalie",
+      "Header": null,
+      "BaseText": "<p>Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.</p>\r\n<p>&nbsp;</p>\r\n<p>&nbsp;</p>",
+      "Keywords": null,
+      "Language": "en",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p>How to reach Dobbiaco/Toblach: <a href=\"https://www.drei-zinnen.info/en/dobbiaco/dobbiaco/contact-and-service/arrival-mobility.html\">https://www.drei-zinnen.info/en/dobbiaco/dobbiaco/contact-and-service/arrival-mobility.html</a></p>\r\n<p>From Dobbiaco in southern direction and further on to the district S&auml;ge/Segheria.</p>",
+      "AdditionalText": "<p>The 5 FIS-Track (Stephanie: 3.8 km Ole: 3.75 km Nathalie: 5 km Saskia: 5 km Albert: Sprint 1.3 km) are very demanding round tracks with varied climbs and descents in the middle of the wood. The starting point and arrival of the tracks is directly in the cross country stadium.</p>\r\n<p>Nathalie: Nathalie Santer (*1972) Dobbiaco ex-biathlete. 3 World Cup victories and numerous top 10 rankings, 5-times Olympic participant (Albertville 1992, Lillehammer 1994, Nagano 1998, Salt Lake City 2002 and Turin 2006).</p>"
+    },
+    "it": {
+      "Title": "04 Stadio sci da fondo Dobbiaco pista FISI - Nathalie",
+      "Header": null,
+      "BaseText": "<p>La pista impegnativa che parte dallo stadio di sci da fondo di Dobbiaco spesso viene utilizzata come circuito d'allenamento dai teams sportivi di varie nazioni.</p>\r\n<p>&nbsp;</p>",
+      "Keywords": null,
+      "Language": "it",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p>Come arrivare a Dobbiaco: <a href=\"https://www.tre-cime.info/it/dobbiaco/dobbiaco/contatto-servizi/arrivo-mobilita.html\">https://www.tre-cime.info/it/dobbiaco/dobbiaco/contatto-servizi/arrivo-mobilita.html</a></p>\r\n<p>Da Dobbiaco in direzione sud proseguendo fino alla localit&agrave; Segheria.</p>",
+      "AdditionalText": "<p>I 5 tracciati omologati FIS, ogni anno teatro anche delle gare di Coppa del Mondo, sono circuiti piuttosto impegnativi con un&rsquo;alternanza di salite e discese. Il punto di partenza e di arrivo dei singoli tracciati si trovano all&rsquo;interno dello stadio del fondo, dove si effettua il primo giro, per poi percorrere, su un terreno ondulato e boschivo, il tratto iniziale della Valle di Landro. La lunghezza degli itinerari varia da 1,4 km a 5,4 km e la loro denominazione ricorda i famosi atleti di fondo e biathlon di Dobbiaco.</p>\r\n<p>Nathalie: Nathalie Santer (*1972), ex-biatleta di Dobbiaco. Vanta 3 vittorie in Coppa del Mondo e numerosi piazzamenti tra le top 10. Ha partecipato 5 volte ai Giochi Olimpici (Albertville 1992, Lillehammer 1994, Nagano 1998, Salt Lake City 2002 e Torino 2006).</p>"
+    }
+  },
+  "IsOpen": false,
+  "GpsInfo": [
+    {
+      "Gpstype": "Start und Ziel",
+      "Altitude": 1201.0,
+      "Latitude": 46.718982,
+      "Longitude": 12.224067,
+      "AltitudeUnitofMeasure": "m"
+    }
+  ],
+  "LTSTags": [],
+  "ODHTags": [
+    {
+      "Id": "loipen",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/loipen"
+    },
+    {
+      "Id": "klassisch und skating",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/klassisch%20und%20skating"
+    }
+  ],
+  "PoiType": "schwarz",
+  "Ratings": {
+    "Stamina": "6",
+    "Landscape": "3",
+    "Technique": "6",
+    "Difficulty": "6",
+    "Experience": "3"
+  },
+  "SmgTags": [
+    "loipen",
+    "klassisch und skating"
+  ],
+  "SubType": "klassisch und Freistil",
+  "GpsTrack": [
+    {
+      "Id": "7205B284765A934CFA08D608789DCF9F",
+      "Type": "overview",
+      "GpxTrackUrl": "https://lcs.lts.it/downloads/gpx/522822A751CA11D18F1400A02427D15E/FEF1B475C79D1ECF399C9FAE77CA80C0_ov.gpx",
+      "GpxTrackDesc": {
+        "de": "Übersicht",
+        "en": "overview",
+        "it": "compendio"
+      }
+    },
+    {
+      "Id": "FEF1B475C79D1ECF399C9FAE77CA80C0",
+      "Type": "detailed",
+      "GpxTrackUrl": "https://lcs.lts.it/downloads/gpx/522822A751CA11D18F1400A02427D15E/FEF1B475C79D1ECF399C9FAE77CA80C0.gpx",
+      "GpxTrackDesc": {
+        "de": "Datei zum herunterladen",
+        "en": "File to download",
+        "it": "scaricare dato"
+      }
+    }
+  ],
+  "OwnerRid": "522822A751CA11D18F1400A02427D15E",
+  "FeetClimb": false,
+  "GpsPoints": {
+    "position": {
+      "Gpstype": "Start und Ziel",
+      "Altitude": 1201.0,
+      "Latitude": 46.718982,
+      "Longitude": 12.224067,
+      "AltitudeUnitofMeasure": "m"
+    }
+  },
+  "Highlight": false,
+  "OdhActive": true,
+  "Shortname": "04 Langlaufstadion Toblach Fisloipe - Nathalie",
+  "SmgActive": true,
+  "WayNumber": null,
+  "Difficulty": "6",
+  "Exposition": [],
+  "HasRentals": false,
+  "IsPrepared": false,
+  "LastChange": "2020-08-08T03:05:09.716386",
+  "ChildPoiIds": null,
+  "FirstImport": "2015-03-30T16:19:10.0557932",
+  "HasLanguage": [
+    "de",
+    "it",
+    "en"
+  ],
+  "IsWithLigth": false,
+  "LicenseInfo": {
+    "Author": "",
+    "License": "CC0",
+    "ClosedData": false,
+    "LicenseHolder": "https://www.lts.it"
+  },
+  "RunToValley": false,
+  "ContactInfos": {
+    "de": {
+      "Tax": null,
+      "Url": "http://www.toblach.info",
+      "Vat": null,
+      "City": "Toblach",
+      "Email": "info@toblach.info",
+      "Address": "Dolomitenstraße 3",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39034",
+      "Language": "de",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Tourist Info Toblach",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 972132"
+    },
+    "en": {
+      "Tax": null,
+      "Url": "http://www.toblach.info",
+      "Vat": null,
+      "City": "Dobbiaco/Toblach",
+      "Email": "info@toblach.info",
+      "Address": "Via Dolomiti 3",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39034",
+      "Language": "en",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Toruist Info Dobbiaco/Toblach",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 972132"
+    },
+    "it": {
+      "Tax": null,
+      "Url": "http://www.toblach.info",
+      "Vat": null,
+      "City": "Dobbiaco",
+      "Email": "info@toblach.info",
+      "Address": "Via Dolomiti 3",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39034",
+      "Language": "it",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Touritst Info Dobbiaco",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 972132"
+    }
+  },
+  "ImageGallery": [],
+  "LocationInfo": {
+    "TvInfo": {
+      "Id": "522822A751CA11D18F1400A02427D15E",
+      "Name": {
+        "cs": "Toblach/Dobbiaco",
+        "de": "Toblach",
+        "en": "Toblach/Dobbiaco",
+        "fr": "Toblach/Dobbiaco",
+        "it": "Dobbiaco",
+        "nl": "Toblach/Dobbiaco",
+        "pl": "Toblach/Dobbiaco",
+        "ru": "Тоблах/Dobbiaco"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/TourismAssociation/522822A751CA11D18F1400A02427D15E"
+    },
+    "AreaInfo": {
+      "Id": "C30DA5E46A194185A84AA8C774964E2A",
+      "Name": {
+        "cs": "Toblach ",
+        "de": "Toblach ",
+        "en": "Toblach ",
+        "fr": "Toblach ",
+        "it": "Toblach ",
+        "nl": "Toblach ",
+        "pl": "Toblach ",
+        "ru": "Toblach "
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/C30DA5E46A194185A84AA8C774964E2A"
+    },
+    "RegionInfo": {
+      "Id": "D2633A1FC24E11D18F1B006097B8970B",
+      "Name": {
+        "cs": "Oblast Drei Zinnen Dolomity",
+        "de": "Dolomitenregion Drei Zinnen",
+        "en": "Dolomites Region Three Peaks",
+        "fr": "Région des Dolomites Drei Zinnen",
+        "it": "Regione dolomitica Tre Cime",
+        "nl": "Dolomietenregio Drei Zinnen",
+        "pl": "Region Drei Zinnen w Dolomitach",
+        "ru": "регион Драй-Циннен, Доломиты"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/Region/D2633A1FC24E11D18F1B006097B8970B"
+    },
+    "DistrictInfo": null,
+    "MunicipalityInfo": null
+  },
+  "MasterPoiIds": null,
+  "ActivityTypes": [
+    {
+      "Id": "Loipen",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/Loipen",
+      "Type": "Type"
+    },
+    {
+      "Id": "klassisch und Freistil",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/klassisch%20und%20Freistil",
+      "Type": "SubType"
+    },
+    {
+      "Id": "schwarz",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/schwarz",
+      "Type": "PoiType"
+    }
+  ],
+  "AltitudeSumUp": 170.0,
+  "BikeTransport": false,
+  "LiftAvailable": false,
+  "DistanceLength": 5454.0,
+  "AltitudeSumDown": 170.0,
+  "HasFreeEntrance": false,
+  "OutdooractiveID": "17276307",
+  "CopyrightChecked": true,
+  "DistanceDuration": 0.0,
+  "OperationSchedule": [
+    {
+      "Stop": "2020-03-01T00:00:00",
+      "Type": "3",
+      "Start": "1900-01-01T00:00:00",
+      "OperationScheduleTime": null,
+      "OperationscheduleName": {
+        "de": ""
+      }
+    },
+    {
+      "Stop": "2020-12-01T00:00:00",
+      "Type": "3",
+      "Start": "2020-12-01T00:00:00",
+      "OperationScheduleTime": null,
+      "OperationscheduleName": {
+        "de": ""
+      }
+    }
+  ],
+  "AdditionalPoiInfos": {
+    "de": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "klassisch und Freistil",
+      "Language": "de",
+      "MainType": "Loipen"
+    },
+    "en": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "klassisch und Freistil",
+      "Language": "en",
+      "MainType": "Cross-country ski-tracks"
+    },
+    "it": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "Classica e stile libero",
+      "Language": "it",
+      "MainType": "Pista di fondo"
+    }
+  },
+  "AltitudeDifference": 0.0,
+  "AltitudeLowestPoint": 1201.0,
+  "AltitudeHighestPoint": 1279.0,
+  "TourismorganizationId": "522822A751CA11D18F1400A02427D15E",
+  "OutdooractiveElevationID": "17276839"
+},{
+  "Id": "B633594E831BEE18AF6735D3BAFA01E1",
+  "Self": "https://tourism.opendatahub.bz.it/api/Activity/B633594E831BEE18AF6735D3BAFA01E1",
+  "Type": "Loipen",
+  "Areas": [
+    {
+      "Id": "C30DA5E46A194185A84AA8C774964E2A",
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/C30DA5E46A194185A84AA8C774964E2A"
+    }
+  ],
+  "SmgId": null,
+  "_Meta": {
+    "Id": "B633594E831BEE18AF6735D3BAFA01E1",
+    "Type": "ltsactivity",
+    "Source": "lts",
+    "LastUpdate": "2020-08-08T03:05:09.3120784"
+  },
+  "Active": true,
+  "AreaId": [
+    "C30DA5E46A194185A84AA8C774964E2A"
+  ],
+  "Detail": {
+    "de": {
+      "Title": "05 Langlaufstadion Toblach Fisloipe - Saskia",
+      "Header": null,
+      "BaseText": "<p>Die anspruchsvolle Rundloipe ab dem Langlaufstadion in Toblach wird h&auml;ufig als Trainingsstrecke f&uuml;r verschiedene Langlauf-Nationalteams aus der ganzen Welt genutzt.</p>\r\n<p>&nbsp;</p>",
+      "Keywords": null,
+      "Language": "de",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p>Wie Sie Toblach erreichen: <a href=\"https://www.drei-zinnen.info/de/toblach/toblach/kontakt-service/anreise-mobilitaet.html\">https://www.drei-zinnen.info/de/toblach/toblach/kontakt-service/anreise-mobilitaet.html</a></p>\r\n<p>Von Toblach in Richtung S&uuml;den und weiter in den Ortsteil S&auml;ge.</p>",
+      "AdditionalText": "<p>Die 5 FIS-Strecken sind durchaus anspruchsvolle Rundstrecken mit abwechslungsreichen Anstiegen und Abfahrten. Start und Ziel der Strecken, auf denen regelm&auml;&szlig;ig Weltcuprennen stattfinden, ist jeweils im Langlaufstadion. Sie f&uuml;hren nach einer einheitlichen Startrunde im Stadion durch kupiertes, bewaldetes Gel&auml;nde am Eingang des H&ouml;hlensteintals. Sie weisen L&auml;ngen zwischen 1,4km und 5,4km auf und sind nach bekannten Toblacher Top-SportlerInnen aus dem Langlauf- und Biathlonbereich benannt.</p>\r\n<p>Saskia: Saskia Santer (*1977), Toblacher Ex- Biathletin. Zweimalige Teilnehmerin an Olympischen Spielen (Salt Lake City 2002 und Torino 2006), jahrelang Weltcupteilnehmerin</p>"
+    },
+    "en": {
+      "Title": "05 Cross Country Stadio Dobbiaco/Toblach FISI - Saskia",
+      "Header": null,
+      "BaseText": "<p>Demanding round-trip tours starting at the cross-country stadium in Dobbiaco, often used as training tracks by various national cross-country teams from all over the world.</p>\r\n<p>&nbsp;</p>",
+      "Keywords": null,
+      "Language": "en",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p>How to reach Dobbiaco/Toblach: <a href=\"https://www.drei-zinnen.info/en/dobbiaco/dobbiaco/contact-and-service/arrival-mobility.html\">https://www.drei-zinnen.info/en/dobbiaco/dobbiaco/contact-and-service/arrival-mobility.html</a></p>\r\n<p>From Dobbiaco in southern direction and further on to the district S&auml;ge/Segheria.</p>",
+      "AdditionalText": "<p>The 5 FIS-Track (Stephanie: 3.8 km Ole: 3.75 km Nathalie: 5 km Saskia: 5 km Albert: Sprint 1.3 km) are very demanding round tracks with varied climbs and descents in the middle of the wood. The starting point and arrival of the tracks is directly in the cross country stadium.</p>\r\n<p>Saskia: Saskia Santer (*1977), Dobbiaco ex-biathlete. 2 Olympic Games participations (Salt Lake City 2002 and Turin 2006), long-standing World Cup participant.</p>"
+    },
+    "it": {
+      "Title": "05 Stadio sci da fondo Dobbiaco pista FISI - Saskia",
+      "Header": null,
+      "BaseText": "<p>La pista impegnativa che parte dallo stadio di sci da fondo di Dobbiaco spesso viene utilizzata come circuito d'allenamento dai teams sportivi di varie nazioni.</p>\r\n<p>&nbsp;</p>",
+      "Keywords": null,
+      "Language": "it",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p>Come arrivare a Dobbiaco: <a href=\"https://www.tre-cime.info/it/dobbiaco/dobbiaco/contatto-servizi/arrivo-mobilita.html\">https://www.tre-cime.info/it/dobbiaco/dobbiaco/contatto-servizi/arrivo-mobilita.html</a></p>\r\n<p>Da Dobbiaco in direzione sud proseguendo fino alla localit&agrave; Segheria.</p>",
+      "AdditionalText": "<p>I 5 tracciati omologati FIS, ogni anno teatro anche delle gare di Coppa del Mondo, sono circuiti piuttosto impegnativi con un&rsquo;alternanza di salite e discese. Il punto di partenza e di arrivo dei singoli tracciati si trovano all&rsquo;interno dello stadio del fondo, dove si effettua il primo giro, per poi percorrere, su un terreno ondulato e boschivo, il tratto iniziale della Valle di Landro. La lunghezza degli itinerari varia da 1,4 km a 5,4 km e la loro denominazione ricorda i famosi atleti di fondo e biathlon di Dobbiaco.</p>\r\n<p>Saskia: Saskia Santer (*1977), ex-biatleta di Dobbiaco, ha gareggiato 2 volte a livello olimpico (Salt Lake City 2002 e Torino 2006) e per diversi anni in Coppa del Mondo.</p>"
+    }
+  },
+  "IsOpen": false,
+  "GpsInfo": [
+    {
+      "Gpstype": "Start und Ziel",
+      "Altitude": 1217.0,
+      "Latitude": 46.718787,
+      "Longitude": 12.223981,
+      "AltitudeUnitofMeasure": "m"
+    }
+  ],
+  "LTSTags": [],
+  "ODHTags": [
+    {
+      "Id": "loipen",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/loipen"
+    },
+    {
+      "Id": "klassisch und skating",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/klassisch%20und%20skating"
+    }
+  ],
+  "PoiType": "schwarz",
+  "Ratings": {
+    "Stamina": "6",
+    "Landscape": "3",
+    "Technique": "6",
+    "Difficulty": "6",
+    "Experience": "3"
+  },
+  "SmgTags": [
+    "loipen",
+    "klassisch und skating"
+  ],
+  "SubType": "klassisch und Freistil",
+  "GpsTrack": [
+    {
+      "Id": "A2C49868275B518C0140B88B77FBC560",
+      "Type": "detailed",
+      "GpxTrackUrl": "https://lcs.lts.it/downloads/gpx/522822A751CA11D18F1400A02427D15E/A2C49868275B518C0140B88B77FBC560.gpx",
+      "GpxTrackDesc": {
+        "de": "Datei zum herunterladen",
+        "en": "File to download",
+        "it": "scaricare dato"
+      }
+    },
+    {
+      "Id": "AD836AF4120F0D91D1A48D5FAE1D2E07",
+      "Type": "overview",
+      "GpxTrackUrl": "https://lcs.lts.it/downloads/gpx/522822A751CA11D18F1400A02427D15E/A2C49868275B518C0140B88B77FBC560_ov.gpx",
+      "GpxTrackDesc": {
+        "de": "Übersicht",
+        "en": "overview",
+        "it": "compendio"
+      }
+    }
+  ],
+  "OwnerRid": "522822A751CA11D18F1400A02427D15E",
+  "FeetClimb": false,
+  "GpsPoints": {
+    "position": {
+      "Gpstype": "Start und Ziel",
+      "Altitude": 1217.0,
+      "Latitude": 46.718787,
+      "Longitude": 12.223981,
+      "AltitudeUnitofMeasure": "m"
+    }
+  },
+  "Highlight": false,
+  "OdhActive": true,
+  "Shortname": "05 Langlaufstadion Toblach Fisloipe - Saskia",
+  "SmgActive": true,
+  "WayNumber": null,
+  "Difficulty": "6",
+  "Exposition": [],
+  "HasRentals": false,
+  "IsPrepared": false,
+  "LastChange": "2020-08-08T03:05:09.3120784",
+  "ChildPoiIds": null,
+  "FirstImport": "2015-03-30T16:18:50.7429592",
+  "HasLanguage": [
+    "de",
+    "it",
+    "en"
+  ],
+  "IsWithLigth": false,
+  "LicenseInfo": {
+    "Author": "",
+    "License": "CC0",
+    "ClosedData": false,
+    "LicenseHolder": "https://www.lts.it"
+  },
+  "RunToValley": false,
+  "ContactInfos": {
+    "de": {
+      "Tax": null,
+      "Url": "http://www.toblach.info",
+      "Vat": null,
+      "City": "Toblach",
+      "Email": "info@toblach.info",
+      "Address": "Dolomitenstraße 3",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39034",
+      "Language": "de",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Tourist Info Toblach",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 972132"
+    },
+    "en": {
+      "Tax": null,
+      "Url": "http://www.toblach.info",
+      "Vat": null,
+      "City": "Dobbiaco/Toblach",
+      "Email": "info@toblach.info",
+      "Address": "Via Dolomiti 3",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39034",
+      "Language": "en",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Toruist Info Dobbiaco/Toblach",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 972132"
+    },
+    "it": {
+      "Tax": null,
+      "Url": "http://www.toblach.info",
+      "Vat": null,
+      "City": "Dobbiaco",
+      "Email": "info@toblach.info",
+      "Address": "Via Dolomiti 3",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39034",
+      "Language": "it",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Touritst Info Dobbiaco",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 972132"
+    }
+  },
+  "ImageGallery": [],
+  "LocationInfo": {
+    "TvInfo": {
+      "Id": "522822A751CA11D18F1400A02427D15E",
+      "Name": {
+        "cs": "Toblach/Dobbiaco",
+        "de": "Toblach",
+        "en": "Toblach/Dobbiaco",
+        "fr": "Toblach/Dobbiaco",
+        "it": "Dobbiaco",
+        "nl": "Toblach/Dobbiaco",
+        "pl": "Toblach/Dobbiaco",
+        "ru": "Тоблах/Dobbiaco"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/TourismAssociation/522822A751CA11D18F1400A02427D15E"
+    },
+    "AreaInfo": {
+      "Id": "C30DA5E46A194185A84AA8C774964E2A",
+      "Name": {
+        "cs": "Toblach ",
+        "de": "Toblach ",
+        "en": "Toblach ",
+        "fr": "Toblach ",
+        "it": "Toblach ",
+        "nl": "Toblach ",
+        "pl": "Toblach ",
+        "ru": "Toblach "
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/C30DA5E46A194185A84AA8C774964E2A"
+    },
+    "RegionInfo": {
+      "Id": "D2633A1FC24E11D18F1B006097B8970B",
+      "Name": {
+        "cs": "Oblast Drei Zinnen Dolomity",
+        "de": "Dolomitenregion Drei Zinnen",
+        "en": "Dolomites Region Three Peaks",
+        "fr": "Région des Dolomites Drei Zinnen",
+        "it": "Regione dolomitica Tre Cime",
+        "nl": "Dolomietenregio Drei Zinnen",
+        "pl": "Region Drei Zinnen w Dolomitach",
+        "ru": "регион Драй-Циннен, Доломиты"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/Region/D2633A1FC24E11D18F1B006097B8970B"
+    },
+    "DistrictInfo": null,
+    "MunicipalityInfo": null
+  },
+  "MasterPoiIds": null,
+  "ActivityTypes": [
+    {
+      "Id": "Loipen",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/Loipen",
+      "Type": "Type"
+    },
+    {
+      "Id": "klassisch und Freistil",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/klassisch%20und%20Freistil",
+      "Type": "SubType"
+    },
+    {
+      "Id": "schwarz",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/schwarz",
+      "Type": "PoiType"
+    }
+  ],
+  "AltitudeSumUp": 182.0,
+  "BikeTransport": false,
+  "LiftAvailable": false,
+  "DistanceLength": 5300.0,
+  "AltitudeSumDown": 183.0,
+  "HasFreeEntrance": false,
+  "OutdooractiveID": "17654397",
+  "CopyrightChecked": true,
+  "DistanceDuration": 0.0,
+  "OperationSchedule": [
+    {
+      "Stop": "2020-03-01T00:00:00",
+      "Type": "3",
+      "Start": "1900-01-01T00:00:00",
+      "OperationScheduleTime": null,
+      "OperationscheduleName": {
+        "de": ""
+      }
+    },
+    {
+      "Stop": "2020-12-01T00:00:00",
+      "Type": "3",
+      "Start": "2020-12-01T00:00:00",
+      "OperationScheduleTime": null,
+      "OperationscheduleName": {
+        "de": ""
+      }
+    }
+  ],
+  "AdditionalPoiInfos": {
+    "de": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "klassisch und Freistil",
+      "Language": "de",
+      "MainType": "Loipen"
+    },
+    "en": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "klassisch und Freistil",
+      "Language": "en",
+      "MainType": "Cross-country ski-tracks"
+    },
+    "it": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "Classica e stile libero",
+      "Language": "it",
+      "MainType": "Pista di fondo"
+    }
+  },
+  "AltitudeDifference": 0.0,
+  "AltitudeLowestPoint": 1215.0,
+  "AltitudeHighestPoint": 1284.0,
+  "TourismorganizationId": "522822A751CA11D18F1400A02427D15E",
+  "OutdooractiveElevationID": "17654584"
+},{
+  "Id": "28804CF99975D1E3DCCFB1C2619AC03A",
+  "Self": "https://tourism.opendatahub.bz.it/api/Activity/28804CF99975D1E3DCCFB1C2619AC03A",
+  "Type": "Radfahren",
+  "Areas": [
+    {
+      "Id": "7803058FB9EB4185ABA201CD7FDB1EB8",
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/7803058FB9EB4185ABA201CD7FDB1EB8"
+    },
+    {
+      "Id": "B1C58F0E5E8761F384EB192356296D3F",
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/B1C58F0E5E8761F384EB192356296D3F"
+    },
+    {
+      "Id": "C30DA5E46A194185A84AA8C774964E2A",
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/C30DA5E46A194185A84AA8C774964E2A"
+    }
+  ],
+  "SmgId": null,
+  "_Meta": {
+    "Id": "28804CF99975D1E3DCCFB1C2619AC03A",
+    "Type": "ltsactivity",
+    "Source": "lts",
+    "LastUpdate": "2020-05-30T02:50:03.938367"
+  },
+  "Active": true,
+  "AreaId": [
+    "7803058FB9EB4185ABA201CD7FDB1EB8",
+    "B1C58F0E5E8761F384EB192356296D3F",
+    "C30DA5E46A194185A84AA8C774964E2A"
+  ],
+  "Detail": {
+    "de": {
+      "Title": "061 Eggerbergrunde",
+      "Header": null,
+      "BaseText": "<p>Start dieser MTB-Tour ist in Niederdorf. Fahren Sie direkt zur Pfarrkirche im Dorfzentrum. Dort beginnt ein 3 km langer Anstieg zum Eggerberg.</p>",
+      "Keywords": null,
+      "Language": "de",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": null,
+      "AdditionalText": null
+    },
+    "en": {
+      "Title": "061 Giro Montecosta",
+      "Header": null,
+      "BaseText": "<p>After the first steep climb the circuit is easy to ride and can be shortened at several points.</p>",
+      "Keywords": null,
+      "Language": "en",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": null,
+      "AdditionalText": null
+    },
+    "it": {
+      "Title": "061 Giro Montecosta",
+      "Header": null,
+      "BaseText": "<p>La partenza di questo tour &egrave; da Villabassa. Dalla Chiesa di Santo Stefano inizia una salita su strada asfaltata di ca. 3 km direzione &ldquo;Montecosta&rdquo;.</p>",
+      "Keywords": null,
+      "Language": "it",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": null,
+      "AdditionalText": null
+    }
+  },
+  "IsOpen": true,
+  "GpsInfo": [
+    {
+      "Gpstype": "Start und Ziel",
+      "Altitude": 1147.0,
+      "Latitude": 46.738702,
+      "Longitude": 12.169332,
+      "AltitudeUnitofMeasure": "m"
+    }
+  ],
+  "LTSTags": [],
+  "ODHTags": [
+    {
+      "Id": "radfahren",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/radfahren"
+    },
+    {
+      "Id": "mountainbikes",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/mountainbikes"
+    }
+  ],
+  "PoiType": "",
+  "Ratings": {
+    "Stamina": "4",
+    "Landscape": "6",
+    "Technique": "0",
+    "Difficulty": "4",
+    "Experience": "6"
+  },
+  "SmgTags": [
+    "radfahren",
+    "mountainbikes"
+  ],
+  "SubType": "no Subtype",
+  "GpsTrack": [
+    {
+      "Id": "B6842306FB52832B3F7BCC0C4E21C56D",
+      "Type": "detailed",
+      "GpxTrackUrl": "https://lcs.lts.it/downloads/gpx/522822FD51CA11D18F1400A02427D15E/B6842306FB52832B3F7BCC0C4E21C56D.gpx",
+      "GpxTrackDesc": {
+        "de": "Datei zum herunterladen",
+        "en": "File to download",
+        "it": "scaricare dato"
+      }
+    },
+    {
+      "Id": "F1A0274F07AC31FE18EF0D292FAE9539",
+      "Type": "overview",
+      "GpxTrackUrl": "https://lcs.lts.it/downloads/gpx/522822FD51CA11D18F1400A02427D15E/B6842306FB52832B3F7BCC0C4E21C56D_ov.gpx",
+      "GpxTrackDesc": {
+        "de": "Übersicht",
+        "en": "overview",
+        "it": "compendio"
+      }
+    }
+  ],
+  "OwnerRid": "522822FD51CA11D18F1400A02427D15E",
+  "FeetClimb": false,
+  "GpsPoints": {
+    "position": {
+      "Gpstype": "Start und Ziel",
+      "Altitude": 1147.0,
+      "Latitude": 46.738702,
+      "Longitude": 12.169332,
+      "AltitudeUnitofMeasure": "m"
+    }
+  },
+  "Highlight": false,
+  "OdhActive": true,
+  "Shortname": "061 Eggerbergrunde",
+  "SmgActive": true,
+  "WayNumber": 321,
+  "Difficulty": "4",
+  "Exposition": [],
+  "HasRentals": true,
+  "IsPrepared": false,
+  "LastChange": "2020-05-30T02:50:03.938367",
+  "ChildPoiIds": null,
+  "FirstImport": "2015-03-30T16:14:10.8160676",
+  "HasLanguage": [
+    "de",
+    "it",
+    "en"
+  ],
+  "IsWithLigth": false,
+  "LicenseInfo": {
+    "Author": "",
+    "License": "CC0",
+    "ClosedData": false,
+    "LicenseHolder": "https://www.lts.it"
+  },
+  "RunToValley": false,
+  "ContactInfos": {
+    "de": {
+      "Tax": null,
+      "Url": "http://www.niederdorf.it",
+      "Vat": null,
+      "City": "Niederdorf",
+      "Email": "info@niederdorf.it",
+      "Address": "Bahnhofstraße 3",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39039",
+      "Language": "de",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Tourismusverein Niederdorf",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 745136"
+    },
+    "en": {
+      "Tax": null,
+      "Url": "http://www.niederdorf.it",
+      "Vat": null,
+      "City": "San Candido/Innichen, Dobbiaco/Toblach, Villabassa/Niederdorf",
+      "Email": "info@niederdorf.it",
+      "Address": "Via Dolomiti 29",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39039",
+      "Language": "en",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Consorzio Turistico Alta Pusteria",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 745136"
+    },
+    "it": {
+      "Tax": null,
+      "Url": "http://www.niederdorf.it",
+      "Vat": null,
+      "City": "San Candido, Dobbiaco, Villabassa",
+      "Email": "info@niederdorf.it",
+      "Address": "Via Dolomiti 29",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39039",
+      "Language": "it",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Consorzio Turistico Alta Pusteria",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 745136"
+    }
+  },
+  "ImageGallery": [],
+  "LocationInfo": {
+    "TvInfo": {
+      "Id": "522822DA51CA11D18F1400A02427D15E",
+      "Name": {
+        "cs": "Innichen/San Candido",
+        "de": "Innichen",
+        "en": "Innichen/San Candido",
+        "fr": "Innichen/San Candido",
+        "it": "San Candido",
+        "nl": "Innichen/San Candido",
+        "pl": "Innichen/San Candido",
+        "ru": "Иннихен/San Candido"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/TourismAssociation/522822DA51CA11D18F1400A02427D15E"
+    },
+    "AreaInfo": {
+      "Id": "7803058FB9EB4185ABA201CD7FDB1EB8",
+      "Name": {
+        "cs": "Niederdorf",
+        "de": "Niederdorf",
+        "en": "Niederdorf",
+        "fr": "Niederdorf",
+        "it": "Niederdorf",
+        "nl": "Niederdorf",
+        "pl": "Niederdorf",
+        "ru": "Niederdorf"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/7803058FB9EB4185ABA201CD7FDB1EB8"
+    },
+    "RegionInfo": {
+      "Id": "D2633A1FC24E11D18F1B006097B8970B",
+      "Name": {
+        "cs": "Oblast Drei Zinnen Dolomity",
+        "de": "Dolomitenregion Drei Zinnen",
+        "en": "Dolomites Region Three Peaks",
+        "fr": "Région des Dolomites Drei Zinnen",
+        "it": "Regione dolomitica Tre Cime",
+        "nl": "Dolomietenregio Drei Zinnen",
+        "pl": "Region Drei Zinnen w Dolomitach",
+        "ru": "регион Драй-Циннен, Доломиты"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/Region/D2633A1FC24E11D18F1B006097B8970B"
+    },
+    "DistrictInfo": null,
+    "MunicipalityInfo": null
+  },
+  "MasterPoiIds": null,
+  "ActivityTypes": [
+    {
+      "Id": "Radfahren",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/Radfahren",
+      "Type": "Type"
+    }
+  ],
+  "AltitudeSumUp": 678.0,
+  "BikeTransport": false,
+  "LiftAvailable": false,
+  "DistanceLength": 25869.0,
+  "AltitudeSumDown": 678.0,
+  "HasFreeEntrance": false,
+  "OutdooractiveID": "16420281",
+  "CopyrightChecked": true,
+  "DistanceDuration": 0.0,
+  "OperationSchedule": [
+    {
+      "Stop": "2019-04-01T00:00:00",
+      "Type": "3",
+      "Start": "2019-04-01T00:00:00",
+      "OperationScheduleTime": null,
+      "OperationscheduleName": {
+        "de": ""
+      }
+    },
+    {
+      "Stop": "2019-10-01T00:00:00",
+      "Type": "3",
+      "Start": "2019-10-01T00:00:00",
+      "OperationScheduleTime": null,
+      "OperationscheduleName": {
+        "de": ""
+      }
+    }
+  ],
+  "AdditionalPoiInfos": {
+    "de": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "",
+      "Language": "de",
+      "MainType": "Radfahren"
+    },
+    "en": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "",
+      "Language": "en",
+      "MainType": "Cycling"
+    },
+    "it": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "",
+      "Language": "it",
+      "MainType": "Andare in bicicletta"
+    }
+  },
+  "AltitudeDifference": 0.0,
+  "AltitudeLowestPoint": 1142.0,
+  "AltitudeHighestPoint": 1671.0,
+  "TourismorganizationId": "522822DA51CA11D18F1400A02427D15E",
+  "OutdooractiveElevationID": "16423566"
+},{
+  "Id": "F443A24D8EECD6879F8C45E1F740B311",
+  "Self": "https://tourism.opendatahub.bz.it/api/Activity/F443A24D8EECD6879F8C45E1F740B311",
+  "Type": "Loipen",
+  "Areas": [
+    {
+      "Id": "C30DA5E46A194185A84AA8C774964E2A",
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/C30DA5E46A194185A84AA8C774964E2A"
+    }
+  ],
+  "SmgId": null,
+  "_Meta": {
+    "Id": "F443A24D8EECD6879F8C45E1F740B311",
+    "Type": "ltsactivity",
+    "Source": "lts",
+    "LastUpdate": "2020-08-08T03:05:08.9116941"
+  },
+  "Active": true,
+  "AreaId": [
+    "C30DA5E46A194185A84AA8C774964E2A"
+  ],
+  "Detail": {
+    "de": {
+      "Title": "06 Anbindung Toblacher See Variante",
+      "Header": null,
+      "BaseText": "<p>Traumhaftes Naturerlebnis in der verschneiten Winterlandschaft s&uuml;dlich des Toblacher Sees. Diese kurze Variante verbindet das Ostufer mit dem Westufer des Sees.</p>",
+      "Keywords": null,
+      "Language": "de",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p>Wie Sie Toblach erreichen: <a href=\"https://www.drei-zinnen.info/de/toblach/toblach/kontakt-service/anreise-mobilitaet.html\">https://www.drei-zinnen.info/de/toblach/toblach/kontakt-service/anreise-mobilitaet.html</a></p>\r\n<p>Von Toblach in Richtung S&uuml;den und weiter in den Ortsteil S&auml;ge.</p>",
+      "AdditionalText": "<p>Diese kurze Verbindungsloipe f&uuml;hrt inmitten im Wald und dient als Verbindungsst&uuml;ck der Seerunde.</p>"
+    },
+    "en": {
+      "Title": "06 Connection Lake of Dobbiaco/Toblach variant",
+      "Header": null,
+      "BaseText": "<p>A fantastic experience of nature through the winter-wood at the south side of the Lake of Dobbiaco. This short variant is needed to connect the east bank with the west bank.</p>",
+      "Keywords": null,
+      "Language": "en",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p>How to reach Dobbiaco/Toblach: <a href=\"https://www.drei-zinnen.info/en/dobbiaco/dobbiaco/contact-and-service/arrival-mobility.html\">https://www.drei-zinnen.info/en/dobbiaco/dobbiaco/contact-and-service/arrival-mobility.html</a></p>\r\n<p>From Dobbiaco in southern direction and further on to the district S&auml;ge/Segheria.</p>",
+      "AdditionalText": "<p>The short cross country track goes through the wood and is needed to complete the round track of the lake.</p>"
+    },
+    "it": {
+      "Title": "06 Connessione Lago di Dobbiaco variante",
+      "Header": null,
+      "BaseText": "<p>Immersa nella natura innevata&nbsp;sul lato sud del Lago di Dobbiaco. Questa breve variante collega lo spondo est e lo spondo ovest del lago.</p>",
+      "Keywords": null,
+      "Language": "it",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p>Come arrivare a Dobbiaco: <a href=\"https://www.tre-cime.info/it/dobbiaco/dobbiaco/contatto-servizi/arrivo-mobilita.html\">https://www.tre-cime.info/it/dobbiaco/dobbiaco/contatto-servizi/arrivo-mobilita.html</a></p>\r\n<p>Da Dobbiaco in direzione sud proseguendo fino alla localit&agrave; Segheria.</p>",
+      "AdditionalText": "<p>La breve pista da fondo porta in mezzo al bosco e serve per completare il giro del lago.</p>"
+    }
+  },
+  "IsOpen": false,
+  "GpsInfo": [
+    {
+      "Gpstype": "Endpunkt",
+      "Altitude": 1259.0,
+      "Latitude": 46.697142,
+      "Longitude": 12.217415,
+      "AltitudeUnitofMeasure": "m"
+    },
+    {
+      "Gpstype": "Startpunkt",
+      "Altitude": 1257.0,
+      "Latitude": 46.699332,
+      "Longitude": 12.221668,
+      "AltitudeUnitofMeasure": "m"
+    }
+  ],
+  "LTSTags": [],
+  "ODHTags": [
+    {
+      "Id": "loipen",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/loipen"
+    },
+    {
+      "Id": "klassisch und skating",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/klassisch%20und%20skating"
+    }
+  ],
+  "PoiType": "rot",
+  "Ratings": {
+    "Stamina": "1",
+    "Landscape": "5",
+    "Technique": "4",
+    "Difficulty": "4",
+    "Experience": "5"
+  },
+  "SmgTags": [
+    "loipen",
+    "klassisch und skating"
+  ],
+  "SubType": "klassisch und Freistil",
+  "GpsTrack": [
+    {
+      "Id": "11617DF7AD817772DFE0751BC53913CA",
+      "Type": "detailed",
+      "GpxTrackUrl": "https://lcs.lts.it/downloads/gpx/522822A751CA11D18F1400A02427D15E/11617DF7AD817772DFE0751BC53913CA.gpx",
+      "GpxTrackDesc": {
+        "de": "Datei zum herunterladen",
+        "en": "File to download",
+        "it": "scaricare dato"
+      }
+    },
+    {
+      "Id": "CCD6DD79E1F2AFA68C6D4FAAFD8D93AC",
+      "Type": "overview",
+      "GpxTrackUrl": "https://lcs.lts.it/downloads/gpx/522822A751CA11D18F1400A02427D15E/11617DF7AD817772DFE0751BC53913CA_ov.gpx",
+      "GpxTrackDesc": {
+        "de": "Übersicht",
+        "en": "overview",
+        "it": "compendio"
+      }
+    }
+  ],
+  "OwnerRid": "522822A751CA11D18F1400A02427D15E",
+  "FeetClimb": false,
+  "GpsPoints": {
+    "position": {
+      "Gpstype": "Startpunkt",
+      "Altitude": 1257.0,
+      "Latitude": 46.699332,
+      "Longitude": 12.221668,
+      "AltitudeUnitofMeasure": "m"
+    },
+    "endposition": {
+      "Gpstype": "Endpunkt",
+      "Altitude": 1259.0,
+      "Latitude": 46.697142,
+      "Longitude": 12.217415,
+      "AltitudeUnitofMeasure": "m"
+    }
+  },
+  "Highlight": false,
+  "OdhActive": true,
+  "Shortname": "06 Anbindung Toblacher See Variante",
+  "SmgActive": true,
+  "WayNumber": null,
+  "Difficulty": "4",
+  "Exposition": [],
+  "HasRentals": false,
+  "IsPrepared": false,
+  "LastChange": "2020-08-08T03:05:08.9116941",
+  "ChildPoiIds": null,
+  "FirstImport": "2016-03-15T17:23:36.6594367",
+  "HasLanguage": [
+    "de",
+    "it",
+    "en"
+  ],
+  "IsWithLigth": false,
+  "LicenseInfo": {
+    "Author": "",
+    "License": "CC0",
+    "ClosedData": false,
+    "LicenseHolder": "https://www.lts.it"
+  },
+  "RunToValley": false,
+  "ContactInfos": {
+    "de": {
+      "Tax": null,
+      "Url": "http://www.toblach.info",
+      "Vat": null,
+      "City": "Toblach",
+      "Email": "info@toblach.info",
+      "Address": "Dolomitenstraße 3",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39034",
+      "Language": "de",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Tourist Info Toblach",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 972132"
+    },
+    "en": {
+      "Tax": null,
+      "Url": "http://www.toblach.info",
+      "Vat": null,
+      "City": "Dobbiaco/Toblach",
+      "Email": "info@toblach.info",
+      "Address": "Via Dolomiti 3",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39034",
+      "Language": "en",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Tourist Info Dobbiaco/Toblach",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 972132"
+    },
+    "it": {
+      "Tax": null,
+      "Url": "http://www.toblach.info",
+      "Vat": null,
+      "City": "Dobbiaco",
+      "Email": "info@toblach.info",
+      "Address": "Via Dolomiti 3",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39034",
+      "Language": "it",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Tourist Info Dobbiaco",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 972132"
+    }
+  },
+  "ImageGallery": [],
+  "LocationInfo": {
+    "TvInfo": {
+      "Id": "522822A751CA11D18F1400A02427D15E",
+      "Name": {
+        "cs": "Toblach/Dobbiaco",
+        "de": "Toblach",
+        "en": "Toblach/Dobbiaco",
+        "fr": "Toblach/Dobbiaco",
+        "it": "Dobbiaco",
+        "nl": "Toblach/Dobbiaco",
+        "pl": "Toblach/Dobbiaco",
+        "ru": "Тоблах/Dobbiaco"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/TourismAssociation/522822A751CA11D18F1400A02427D15E"
+    },
+    "AreaInfo": {
+      "Id": "C30DA5E46A194185A84AA8C774964E2A",
+      "Name": {
+        "cs": "Toblach ",
+        "de": "Toblach ",
+        "en": "Toblach ",
+        "fr": "Toblach ",
+        "it": "Toblach ",
+        "nl": "Toblach ",
+        "pl": "Toblach ",
+        "ru": "Toblach "
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/C30DA5E46A194185A84AA8C774964E2A"
+    },
+    "RegionInfo": {
+      "Id": "D2633A1FC24E11D18F1B006097B8970B",
+      "Name": {
+        "cs": "Oblast Drei Zinnen Dolomity",
+        "de": "Dolomitenregion Drei Zinnen",
+        "en": "Dolomites Region Three Peaks",
+        "fr": "Région des Dolomites Drei Zinnen",
+        "it": "Regione dolomitica Tre Cime",
+        "nl": "Dolomietenregio Drei Zinnen",
+        "pl": "Region Drei Zinnen w Dolomitach",
+        "ru": "регион Драй-Циннен, Доломиты"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/Region/D2633A1FC24E11D18F1B006097B8970B"
+    },
+    "DistrictInfo": null,
+    "MunicipalityInfo": null
+  },
+  "MasterPoiIds": null,
+  "ActivityTypes": [
+    {
+      "Id": "Loipen",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/Loipen",
+      "Type": "Type"
+    },
+    {
+      "Id": "klassisch und Freistil",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/klassisch%20und%20Freistil",
+      "Type": "SubType"
+    },
+    {
+      "Id": "rot",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/rot",
+      "Type": "PoiType"
+    }
+  ],
+  "AltitudeSumUp": 3.0,
+  "BikeTransport": false,
+  "LiftAvailable": false,
+  "DistanceLength": 400.0,
+  "AltitudeSumDown": 1.0,
+  "HasFreeEntrance": false,
+  "OutdooractiveID": "17277367",
+  "CopyrightChecked": true,
+  "DistanceDuration": 0.0,
+  "OperationSchedule": [
+    {
+      "Stop": "2020-03-01T00:00:00",
+      "Type": "3",
+      "Start": "1900-01-01T00:00:00",
+      "OperationScheduleTime": null,
+      "OperationscheduleName": {
+        "de": ""
+      }
+    },
+    {
+      "Stop": "2020-12-01T00:00:00",
+      "Type": "3",
+      "Start": "2020-12-01T00:00:00",
+      "OperationScheduleTime": null,
+      "OperationscheduleName": {
+        "de": ""
+      }
+    }
+  ],
+  "AdditionalPoiInfos": {
+    "de": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "klassisch und Freistil",
+      "Language": "de",
+      "MainType": "Loipen"
+    },
+    "en": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "klassisch und Freistil",
+      "Language": "en",
+      "MainType": "Cross-country ski-tracks"
+    },
+    "it": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "Classica e stile libero",
+      "Language": "it",
+      "MainType": "Pista di fondo"
+    }
+  },
+  "AltitudeDifference": 2.0,
+  "AltitudeLowestPoint": 1257.0,
+  "AltitudeHighestPoint": 1260.0,
+  "TourismorganizationId": "522822A751CA11D18F1400A02427D15E",
+  "OutdooractiveElevationID": "17277597"
+},{
+  "Id": "A98CE134AE5F0111A51DB83F091F259D",
+  "Self": "https://tourism.opendatahub.bz.it/api/Activity/A98CE134AE5F0111A51DB83F091F259D",
+  "Type": "Laufen und Fitness",
+  "Areas": [
+    {
+      "Id": "8EB162B5ECBC4DB28821DDB4CF1AE94C",
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/8EB162B5ECBC4DB28821DDB4CF1AE94C"
+    }
+  ],
+  "SmgId": null,
+  "_Meta": {
+    "Id": "A98CE134AE5F0111A51DB83F091F259D",
+    "Type": "ltsactivity",
+    "Source": "lts",
+    "LastUpdate": "2020-08-27T02:45:04.6008607"
+  },
+  "Active": false,
+  "AreaId": [
+    "8EB162B5ECBC4DB28821DDB4CF1AE94C"
+  ],
+  "Detail": {
+    "de": {
+      "Title": "10 km - Jochgrimm - Neuhütt - Auerleger",
+      "Header": null,
+      "BaseText": "<p>Die Laufstrecke f&uuml;hrt auf der Ostseite des Wei&szlig;horn bis zur Neuh&uuml;ttalm und bietet wundersch&ouml;ne Ausblicke auf Rosengarten und Latemar. Der Abschnitt von Neuh&uuml;tt-Auerleger-Jochgrimm f&uuml;hrt gr&ouml;&szlig;tenteils im Wald. Die Strecke verl&auml;uft auf Schotter- und Bergwegen. Start und Ziel ist am Jochgrimm.</p>",
+      "Keywords": null,
+      "Language": "de",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p>Um zum Jochgrimm zu gelangen, gibt es zwei M&ouml;glichkeiten:</p>\r\n<p>Von Norden kommend:</p>\r\n<p>Sie fahren bei der Autobahnausfahrt <em>Bozen-Nord</em> von der A22 ab, folgen der Ausschilderung ins <em>Eggental </em>und fahren Richtung <em>Lavaz&egrave;pass</em> weiter. Von dort,&nbsp; in westlicher Richtung, weiter zum Jochgrimm (Fahrtdauer: ab Autobahnausfahrt rund 35&ndash;40&nbsp;Minuten).</p>\r\n<p>Von S&uuml;den kommend:</p>\r\n<p>Die Ausfahrt der Brennerautobahn A22 <em>Neumarkt/Auer</em> nehmen, &uuml;ber <em>Montan</em> ins <em>Fleimstal</em>, Richtung <em>Cavalese</em> weiterfahren, kurz vor <em>Cavalese</em> die Abzweigung nach <em>Varena</em>, zum <em>Lavaz&egrave;pass</em> nehmen, von dort nach Westen &uuml;ber die Pass-Stra&szlig;e zum Parkplatz von <em>Jochgrimm</em> (ital. Passo Oclini) (Fahrtdauer: ab Autobahnausfahrt rund 45&nbsp;Minuten).</p>\r\n<p>Bei einer Anreise mit Bus empfehlen wir die Anreise &uuml;ber Bozen und das Eggental.</p>\r\n<p>Unsere Koordinaten: 46.347059, 11.453503</p>\r\n<p>Achtung bei Navigationssystemen: Auf den meisten Ger&auml;ten ist die Stra&szlig;e nach Jochgrimm falsch vermerkt. W&auml;hlen Sie daher als Ziel den Lavaz&egrave;pass.</p>",
+      "AdditionalText": "<p>&nbsp;- in Ausarbeitung - in Ausarbeitung -&nbsp;in Ausarbeitung -&nbsp;in Ausarbeitung -&nbsp;in Ausarbeitung -&nbsp;in Ausarbeitung -&nbsp;in Ausarbeitung -&nbsp;in Ausarbeitung -&nbsp;in Ausarbeitung -&nbsp;in Ausarbeitung -&nbsp;in Ausarbeitung -&nbsp;in Ausarbeitung -&nbsp;in Ausarbeitung -&nbsp;</p>"
+    },
+    "en": {
+      "Title": "10 km - Jochgrimm - Neuhütt - Auerleger",
+      "Header": null,
+      "BaseText": "<p>in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration - in elaboration -</p>",
+      "Keywords": null,
+      "Language": "en",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p>There are two routes you can take to come to Jochgrimm by car:</p>\r\n<p>Coming from the south:</p>\r\n<p>Take the &ldquo;Neumarkt/Auer&rdquo; exit of the Brenner autobahn A22 and continue via Montan to the Fleims Valley / Val di Fiemme. Continue on towards Cavalese. Just before you get to Cavalese, take the turn-off to Varena and continue on towards the Lavaz&egrave; Pass. From there, continue westwards over the Pass road to the Jochgrimm parking (ital. Passo Oclini) (driving time from the autobahn exit: approx. 45 minutes).</p>\r\n<p>Coming from the north:</p>\r\n<p>Take the &ldquo;Bozen-Nord&rdquo; autobahn exit from the A22 and follow the signposts directing you to the Eggen Valley (Eggental/Val d&rsquo;Ega) and continue on towards the Lavaz&egrave; Pass. From there, as described above, proceed westwards to the Jochgrimm (driving time from the autobahn exit: approx. 35 &ndash; 40 minutes).</p>\r\n<p>When traveling by bus, we recommend coming via Bozen / Bolzano and the Eggen Valley.</p>\r\n<p>Our coordinates: 46.347059, 11.453503</p>\r\n<p>IMPORTANT when using a navigation system: The road to the Jochgrimm is incorrectly labeled on most electronic navigation devices. You should therefore select &ldquo;Lavaz&egrave; Pass&rdquo; as your destination.</p>",
+      "AdditionalText": null
+    },
+    "it": {
+      "Title": "10 km - Passo Oclini - Capanna Nuova - Malga Ora",
+      "Header": null,
+      "BaseText": "<p>Il percorso su ghiaia e sentieri alpini.passo sul versante est del Corno Bianco fino alla capanna nuova e offre vedute spettacolari sui gruppi montuosi di Latemar e Catinaccio. Da Capanna nuova alla malga Ora e infine al Passo Oclini il percorso si trova nel bosco. Partenza e arrivo sono al Passo Oclini.</p>",
+      "Keywords": null,
+      "Language": "it",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p>Sono due le possibilit&agrave; per arrivare al Passo Oclini:</p>\r\n<p>Venendo da sud:</p>\r\n<p>Prendere l&rsquo;uscita Egna/Ora dall&rsquo;Autostrada del Brennero A22 e passando per Montagna imboccare la Val di Fiemme proseguendo per Cavalese; poco prima di Cavalese, svoltare per Varena, prendere la strada per il Passo Lavaz&eacute; e da l&igrave; proseguire in direzione ovest sulla strada del passo fino al parcheggio Passo Oclini (Jochgrimm) (percorrenza: 45 minuti circa dallo svincolo autostradale).</p>\r\n<p>Venendo da nord:</p>\r\n<p>In alternativa &egrave; possibile prendere l&rsquo;uscita Bolzano-Nord dalla A22 e seguire quindi le indicazioni per la Val d&rsquo;Ega e Obereggen proseguendo poi per il Passo Lavaz&egrave;. Da l&igrave;, come descritto sopra, si proceder&agrave; in direzione ovest fino al Passo Oclini (percorrenza: circa 35-40 minuti dall&rsquo;uscita dell&rsquo;autostrada).</p>\r\n<p>Se arrivate con un pullman vi consigliamo di passare da Bolzano e la Val d&rsquo;Ega (&ldquo;venendo da nord&rdquo;)</p>\r\n<p>le nostri coordinate: 46.347059, 11.453503</p>\r\n<p>Attenzione: sulla maggior parte dei navigatori la strada per il Passo di Oclini non &egrave; indicata correttamente. Si consiglia di selezionare il Passo Lavaz&egrave;.</p>",
+      "AdditionalText": null
+    }
+  },
+  "IsOpen": true,
+  "GpsInfo": [
+    {
+      "Gpstype": "Start und Ziel",
+      "Altitude": 2001.0,
+      "Latitude": 46.346309,
+      "Longitude": 11.453452,
+      "AltitudeUnitofMeasure": "m"
+    }
+  ],
+  "LTSTags": [],
+  "ODHTags": [
+    {
+      "Id": "laufen und fitness",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/laufen%20und%20fitness"
+    },
+    {
+      "Id": "laufstrecken",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/laufstrecken"
+    },
+    {
+      "Id": "bergläufe",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/bergl%C3%A4ufe"
+    },
+    {
+      "Id": "trail running",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/trail%20running"
+    }
+  ],
+  "PoiType": "",
+  "Ratings": {
+    "Stamina": "4",
+    "Landscape": "6",
+    "Technique": "4",
+    "Difficulty": "4",
+    "Experience": "4"
+  },
+  "SmgTags": [
+    "laufen und fitness",
+    "laufstrecken",
+    "bergläufe",
+    "trail running"
+  ],
+  "SubType": "no Subtype",
+  "GpsTrack": [
+    {
+      "Id": "CDB7E13A42E90172754ACAB82A987AAF",
+      "Type": "detailed",
+      "GpxTrackUrl": "https://lcs.lts.it/downloads/gpx/85403B6D9AF6AFCDAE3956063D817D8B/CDB7E13A42E90172754ACAB82A987AAF.gpx",
+      "GpxTrackDesc": {
+        "de": "Datei zum herunterladen",
+        "en": "File to download",
+        "it": "scaricare dato"
+      }
+    },
+    {
+      "Id": "EB716233B8E9E7B27DE6F4C996C418C1",
+      "Type": "overview",
+      "GpxTrackUrl": "https://lcs.lts.it/downloads/gpx/85403B6D9AF6AFCDAE3956063D817D8B/CDB7E13A42E90172754ACAB82A987AAF_ov.gpx",
+      "GpxTrackDesc": {
+        "de": "Übersicht",
+        "en": "overview",
+        "it": "compendio"
+      }
+    }
+  ],
+  "OwnerRid": "85403B6D9AF6AFCDAE3956063D817D8B",
+  "FeetClimb": false,
+  "GpsPoints": {
+    "position": {
+      "Gpstype": "Start und Ziel",
+      "Altitude": 2001.0,
+      "Latitude": 46.346309,
+      "Longitude": 11.453452,
+      "AltitudeUnitofMeasure": "m"
+    }
+  },
+  "Highlight": false,
+  "OdhActive": true,
+  "Shortname": "10 km - Jochgrimm - Neuhütt - Auerleger",
+  "SmgActive": true,
+  "WayNumber": null,
+  "Difficulty": "4",
+  "Exposition": [],
+  "HasRentals": false,
+  "IsPrepared": false,
+  "LastChange": "2020-08-27T02:45:04.6008607",
+  "ChildPoiIds": null,
+  "FirstImport": "2017-05-04T03:02:01.1875053",
+  "HasLanguage": [
+    "de",
+    "it",
+    "en"
+  ],
+  "IsWithLigth": false,
+  "LicenseInfo": {
+    "Author": "",
+    "License": "CC0",
+    "ClosedData": false,
+    "LicenseHolder": "https://www.lts.it"
+  },
+  "RunToValley": false,
+  "ContactInfos": {
+    "de": {
+      "Tax": null,
+      "Url": "http://www.jochgrimm.com",
+      "Vat": null,
+      "City": "Aldein",
+      "Email": "info@jochgrimm.com",
+      "Address": "Jochgrimm 2",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39040",
+      "Language": "de",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "jochgrimm.com",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0471 887180"
+    },
+    "en": {
+      "Tax": null,
+      "Url": "http://www.jochgrimm.com",
+      "Vat": null,
+      "City": "Aldino",
+      "Email": "info@jochgrimm.com",
+      "Address": "Passo Oclini 2",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39040",
+      "Language": "en",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "oclini.com",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0471 887180"
+    },
+    "it": {
+      "Tax": null,
+      "Url": "http://www.jochgrimm.com",
+      "Vat": null,
+      "City": "Aldino",
+      "Email": "info@jochgrimm.com",
+      "Address": "Passo Oclini 2",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39040",
+      "Language": "it",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "oclini.com",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0471 887180"
+    }
+  },
+  "ImageGallery": [],
+  "LocationInfo": {
+    "TvInfo": {
+      "Id": "5228228D51CA11D18F1400A02427D15E",
+      "Name": {
+        "cs": "Aldein - Radein/Aldino - Redagno",
+        "de": "Aldein - Radein",
+        "en": "Aldino - Redagno/Aldein - Radein",
+        "fr": "Aldino - Redagno/Aldein - Radein",
+        "it": "Aldino - Redagno",
+        "nl": "Aldino - Redagno/Aldein - Radein",
+        "pl": "Aldino - Redagno/Aldein - Radein",
+        "ru": "Альдино - Реданьо/Aldein - Radein"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/TourismAssociation/5228228D51CA11D18F1400A02427D15E"
+    },
+    "AreaInfo": {
+      "Id": "8EB162B5ECBC4DB28821DDB4CF1AE94C",
+      "Name": {
+        "cs": "Aldein Radein",
+        "de": "Aldein Radein",
+        "en": "Aldein Radein",
+        "fr": "Aldein Radein",
+        "it": "Aldein Radein",
+        "nl": "Aldein Radein",
+        "pl": "Aldein Radein",
+        "ru": "Aldein Radein"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/8EB162B5ECBC4DB28821DDB4CF1AE94C"
+    },
+    "RegionInfo": {
+      "Id": "D2633A1CC24E11D18F1B006097B8970B",
+      "Name": {
+        "cs": "Bozen/Bolzano a okolí",
+        "de": "Bozen und Umgebung",
+        "en": "Bolzano/Bozen and environs",
+        "fr": "Bolzano/Bozen et environs",
+        "it": "Bolzano e dintorni",
+        "nl": "Bolzano/Bozen en omgeving",
+        "pl": "Bolzano/Bozen i okolice",
+        "ru": "Больцано/Bozen и окрестности"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/Region/D2633A1CC24E11D18F1B006097B8970B"
+    },
+    "DistrictInfo": {
+      "Id": "79CBD63251C911D18F1400A02427D15E",
+      "Name": {
+        "cs": "Radein/Redagno",
+        "de": "Radein",
+        "en": "Redagno/Radein",
+        "fr": "Redagno/Radein",
+        "it": "Redagno",
+        "nl": "Redagno/Radein",
+        "pl": "Redagno/Radein",
+        "ru": "Реданьо"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/District/79CBD63251C911D18F1400A02427D15E"
+    },
+    "MunicipalityInfo": {
+      "Id": "413FBCB36CEB423A8F3BA3334CFC6B98",
+      "Name": {
+        "cs": "Aldein/Aldino",
+        "de": "Aldein",
+        "en": "Aldino/Aldein",
+        "fr": "Aldino/Aldein",
+        "it": "Aldino",
+        "nl": "Aldino/Aldein",
+        "pl": "Aldino/Aldein",
+        "ru": "Альдино"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/Municipality/413FBCB36CEB423A8F3BA3334CFC6B98"
+    }
+  },
+  "MasterPoiIds": null,
+  "ActivityTypes": [
+    {
+      "Id": "Laufen und Fitness",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/Laufen%20und%20Fitness",
+      "Type": "Type"
+    }
+  ],
+  "AltitudeSumUp": 231.0,
+  "BikeTransport": false,
+  "LiftAvailable": false,
+  "DistanceLength": 9949.0,
+  "AltitudeSumDown": 231.0,
+  "HasFreeEntrance": false,
+  "OutdooractiveID": "22957314",
+  "CopyrightChecked": true,
+  "DistanceDuration": 1.17,
+  "OperationSchedule": [
+    {
+      "Stop": "2017-09-01T00:00:00",
+      "Type": "3",
+      "Start": "2017-06-01T00:00:00",
+      "OperationScheduleTime": null,
+      "OperationscheduleName": {
+        "de": ""
+      }
+    }
+  ],
+  "AdditionalPoiInfos": {
+    "de": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "",
+      "Language": "de",
+      "MainType": "Laufen und Fitness"
+    },
+    "en": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "",
+      "Language": "en",
+      "MainType": "Running and fitness"
+    },
+    "it": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "",
+      "Language": "it",
+      "MainType": "Corsa e fitness"
+    }
+  },
+  "AltitudeDifference": 0.0,
+  "AltitudeLowestPoint": 1784.0,
+  "AltitudeHighestPoint": 2009.0,
+  "TourismorganizationId": "5228228D51CA11D18F1400A02427D15E",
+  "OutdooractiveElevationID": "22957321"
+},{
+  "Id": "0A7428B48777B69EB4C1A615926E5F3C",
+  "Self": "https://tourism.opendatahub.bz.it/api/Activity/0A7428B48777B69EB4C1A615926E5F3C",
+  "Type": "Piste",
+  "Areas": [
+    {
+      "Id": "A83807ED5F5A4282A9C99965AF3D8C7B",
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/A83807ED5F5A4282A9C99965AF3D8C7B"
+    },
+    {
+      "Id": "DA0278F8527F4440B53F62E4377E1454",
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/DA0278F8527F4440B53F62E4377E1454"
+    }
+  ],
+  "SmgId": null,
+  "_Meta": {
+    "Id": "0A7428B48777B69EB4C1A615926E5F3C",
+    "Type": "ltsactivity",
+    "Source": "lts",
+    "LastUpdate": "2020-03-11T03:15:49.306397"
+  },
+  "Active": true,
+  "AreaId": [
+    "A83807ED5F5A4282A9C99965AF3D8C7B",
+    "DA0278F8527F4440B53F62E4377E1454"
+  ],
+  "Detail": {
+    "de": {
+      "Title": "10 Langenstein",
+      "Header": null,
+      "BaseText": "<p>Anspruchsvolle Waldabfahrt</p>",
+      "Keywords": null,
+      "Language": "de",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": null,
+      "AdditionalText": null
+    },
+    "en": {
+      "Title": "10 Langenstein/Orso",
+      "Header": null,
+      "BaseText": "<p>Difficult slope</p>",
+      "Keywords": null,
+      "Language": "en",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": null,
+      "AdditionalText": null
+    },
+    "it": {
+      "Title": "10 Orso",
+      "Header": null,
+      "BaseText": "<p>Discesa nel bosco difficile</p>",
+      "Keywords": null,
+      "Language": "it",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": null,
+      "AdditionalText": null
+    }
+  },
+  "IsOpen": false,
+  "GpsInfo": [
+    {
+      "Gpstype": "Endpunkt",
+      "Altitude": 1900.0,
+      "Latitude": 46.525989,
+      "Longitude": 10.585971,
+      "AltitudeUnitofMeasure": "m"
+    },
+    {
+      "Gpstype": "Startpunkt",
+      "Altitude": 2350.0,
+      "Latitude": 46.519268,
+      "Longitude": 10.577482,
+      "AltitudeUnitofMeasure": "m"
+    }
+  ],
+  "LTSTags": [],
+  "ODHTags": [
+    {
+      "Id": "piste",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/piste"
+    },
+    {
+      "Id": "weitere pisten",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/weitere%20pisten"
+    },
+    {
+      "Id": "ski alpin",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/ski%20alpin"
+    }
+  ],
+  "PoiType": "rot",
+  "Ratings": {
+    "Stamina": "0",
+    "Landscape": "0",
+    "Technique": "0",
+    "Difficulty": "4",
+    "Experience": "0"
+  },
+  "SmgTags": [
+    "piste",
+    "weitere pisten",
+    "ski alpin"
+  ],
+  "SubType": "Ski alpin",
+  "GpsTrack": [],
+  "OwnerRid": "522822EB51CA11D18F1400A02427D15E",
+  "FeetClimb": false,
+  "GpsPoints": {
+    "position": {
+      "Gpstype": "Startpunkt",
+      "Altitude": 2350.0,
+      "Latitude": 46.519268,
+      "Longitude": 10.577482,
+      "AltitudeUnitofMeasure": "m"
+    },
+    "endposition": {
+      "Gpstype": "Endpunkt",
+      "Altitude": 1900.0,
+      "Latitude": 46.525989,
+      "Longitude": 10.585971,
+      "AltitudeUnitofMeasure": "m"
+    }
+  },
+  "Highlight": false,
+  "OdhActive": true,
+  "Shortname": "10 Langenstein",
+  "SmgActive": true,
+  "WayNumber": null,
+  "Difficulty": "4",
+  "Exposition": [],
+  "HasRentals": true,
+  "IsPrepared": false,
+  "LastChange": "2020-03-11T03:15:49.306397",
+  "ChildPoiIds": null,
+  "FirstImport": "2015-03-30T16:28:55.0100206",
+  "HasLanguage": [
+    "de",
+    "it",
+    "en"
+  ],
+  "IsWithLigth": false,
+  "LicenseInfo": {
+    "Author": "",
+    "License": "CC0",
+    "ClosedData": false,
+    "LicenseHolder": "https://www.lts.it"
+  },
+  "RunToValley": false,
+  "ContactInfos": {
+    "de": {
+      "Tax": null,
+      "Url": "http://www.seilbahnensulden.it",
+      "Vat": null,
+      "City": "Sulden",
+      "Email": "info@funiviesolda.it",
+      "Address": "Sulden 127",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39029",
+      "Language": "de",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Seilbahnen Sulden",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0473 613047"
+    },
+    "en": {
+      "Tax": null,
+      "Url": "http://www.seilbahnensulden.it",
+      "Vat": null,
+      "City": "Solda",
+      "Email": "info@funiviesolda.it",
+      "Address": "Solda 127",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39029",
+      "Language": "en",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Funivie Solda",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0473 613047"
+    },
+    "it": {
+      "Tax": null,
+      "Url": "http://www.seilbahnensulden.it",
+      "Vat": null,
+      "City": "Solda",
+      "Email": "info@funiviesolda.it",
+      "Address": "Solda 127",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39029",
+      "Language": "it",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Funivie Solda",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0473 613047"
+    }
+  },
+  "ImageGallery": [],
+  "LocationInfo": {
+    "TvInfo": {
+      "Id": "522822EB51CA11D18F1400A02427D15E",
+      "Name": {
+        "cs": "Ortler/Ortles",
+        "de": "Ortlergebiet",
+        "en": "Ortler/Ortles",
+        "fr": "Ortler/Ortles",
+        "it": "Ortles",
+        "nl": "Ortler/Ortles",
+        "pl": "Ortler/Ortles",
+        "ru": "Ортлер/Ortles"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/TourismAssociation/522822EB51CA11D18F1400A02427D15E"
+    },
+    "AreaInfo": {
+      "Id": "DA0278F8527F4440B53F62E4377E1454",
+      "Name": {
+        "cs": "Skigebiet Sulden",
+        "de": "Skigebiet Sulden",
+        "en": "Skigebiet Sulden",
+        "fr": "Skigebiet Sulden",
+        "it": "Skigebiet Sulden",
+        "nl": "Skigebiet Sulden",
+        "pl": "Skigebiet Sulden",
+        "ru": "Skigebiet Sulden"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/DA0278F8527F4440B53F62E4377E1454"
+    },
+    "RegionInfo": {
+      "Id": "D2633A24C24E11D18F1B006097B8970B",
+      "Name": {
+        "cs": "Vinschgau/Val Venosta",
+        "de": "Vinschgau",
+        "en": "Vinschgau/Val Venosta",
+        "fr": "Vinschgau/Val Venosta",
+        "it": "Val Venosta",
+        "nl": "Vinschgau/Val Venosta",
+        "pl": "Vinschgau/Val Venosta",
+        "ru": "Финшгау/Val Venosta"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/Region/D2633A24C24E11D18F1B006097B8970B"
+    },
+    "DistrictInfo": null,
+    "MunicipalityInfo": null
+  },
+  "MasterPoiIds": null,
+  "ActivityTypes": [
+    {
+      "Id": "Piste",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/Piste",
+      "Type": "Type"
+    },
+    {
+      "Id": "Ski alpin",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/Ski%20alpin",
+      "Type": "SubType"
+    },
+    {
+      "Id": "rot",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/rot",
+      "Type": "PoiType"
+    }
+  ],
+  "AltitudeSumUp": 0.0,
+  "BikeTransport": false,
+  "LiftAvailable": false,
+  "DistanceLength": 2700.0,
+  "AltitudeSumDown": 0.0,
+  "HasFreeEntrance": false,
+  "OutdooractiveID": null,
+  "CopyrightChecked": true,
+  "DistanceDuration": 16.53,
+  "OperationSchedule": [
+    {
+      "Stop": "2020-05-02T00:00:00",
+      "Type": "1",
+      "Start": "2019-11-09T00:00:00",
+      "OperationScheduleTime": [
+        {
+          "End": "16:00:00",
+          "Start": "08:30:00",
+          "State": 2,
+          "Friday": true,
+          "Monday": true,
+          "Sunday": true,
+          "Tuesday": true,
+          "Saturday": true,
+          "Timecode": 1,
+          "Thuresday": true,
+          "Wednesday": true
+        }
+      ],
+      "OperationscheduleName": {
+        "de": "1"
+      }
+    }
+  ],
+  "AdditionalPoiInfos": {
+    "de": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "Ski alpin",
+      "Language": "de",
+      "MainType": "Piste"
+    },
+    "en": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "Ski alpin",
+      "Language": "en",
+      "MainType": "slopes"
+    },
+    "it": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "Sci alpino",
+      "Language": "it",
+      "MainType": "piste"
+    }
+  },
+  "AltitudeDifference": 450.0,
+  "AltitudeLowestPoint": 0.0,
+  "AltitudeHighestPoint": 0.0,
+  "TourismorganizationId": "522822EB51CA11D18F1400A02427D15E",
+  "OutdooractiveElevationID": null
+},{
+  "Id": "078883A95FF002AA246B5B99DA5BB9D7",
+  "Self": "https://tourism.opendatahub.bz.it/api/Activity/078883A95FF002AA246B5B99DA5BB9D7",
+  "Type": "Berg",
+  "Areas": [
+    {
+      "Id": "E0DF834346DF46FE91B1895937EA3ADA",
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/E0DF834346DF46FE91B1895937EA3ADA"
+    }
+  ],
+  "SmgId": null,
+  "_Meta": {
+    "Id": "078883A95FF002AA246B5B99DA5BB9D7",
+    "Type": "ltsactivity",
+    "Source": "lts",
+    "LastUpdate": "2020-06-10T02:45:02.9787519"
+  },
+  "Active": true,
+  "AreaId": [
+    "E0DF834346DF46FE91B1895937EA3ADA"
+  ],
+  "Detail": {
+    "de": {
+      "Title": "11 Gipfel Tour",
+      "Header": null,
+      "BaseText": "<div class=\"oax_bold\"><p><strong>11 Gipfel zwischen dem Antholzer-und dem Gsiesertal. Ausgangsort Oberrasen (Vereinshaus), Ziel Antholzer See.</strong></p><p><strong>Lohnenswerte, lange Wanderung mit atemberaubendem Ausblick auf die Rieserfernergruppe, die Ostalpen (mit Gro&szlig;glockner) und die Dolomiten.</strong></p></div><div class=\"oax_marg_top_22\">Eine einsame Grenzwanderung von Gipfel zu Gipfel - die meisten ohne klingende Namen und doch beeindruckend - zwischen dem Antholzer- und dem Gsiesertal.</div><div class=\"oax_marg_top_22\">&nbsp;</div><div class=\"oax_marg_top_22\">Oberrasen - Mudlerhof - Taistner Alm - Rudlhorn (01) - Eisatz (02) - Ausserriedl/ Innerriedl - Million (03) - Frisiberg (04) - Amperspitze (05) - Karl (06) - Ochsenfelder (07) - Napfl (08) - Knebelstein (09) - Gr&uuml;blscharte - H&ouml;llensteinspitze (10) - Rotwand (11) -Staller Sattel - Antholzer See</div><div class=\"oax_marg_top_22\"><p>Teilweise weglose Strecke oder nur Steigspuren vorhanden.</p><p>Die Tour erfordert Ausdauer und Trittsicherheit, stellt aber ansonsten kaum technische Anforderungen</p></div>",
+      "Keywords": null,
+      "Language": "de",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p><strong>Anfahrt mit den &ouml;ffentlichen Verkehrsmittel</strong></p><p><strong>Ab Bahnhof Olang:</strong></p><ul><li>mit dem Linienbus 431 bis zur Haltestelle Oberrasen/Dorfmitte</li></ul><p>&gt;Hier geht&rsquo;s zum Bus-und Zugfahrplan</p>",
+      "AdditionalText": "<p>Start Parkplatz Kulturhaus Oberrasen(1070 m)</p><p>Stra&szlig;e an der Kirche vorbei ansteigend Richtung Pension Oberstallerhof. Knapp unterhalb des Oberstallerhofes teilt sich die Strasse. Hier rechts ansteigen.</p><p>Weiter geht&rsquo;s direkt am Oberstallerhof vorbei und ca. 50 m nachher an der Abzweigung links ansteigend</p><p>Weitere 50 m nachher geht&rsquo;s gleich nach dem Durchfahrtsverbotsschild an einem kleinen Brunnen vom breiten Forstweg rechts ab auf einen schm&auml;leren, teilweise steilen Forstweg. Achtung: diese Abzweigung ist leicht zu &bdquo;&uuml;bersehen&ldquo;!!</p><p>Nach ca. 15-20 Minuten erreicht man am Ende des Forstweges einen kleinen Platz.<br />Achtung: hier nicht dem irref&uuml;hrenden Steig rechts folgen, sondern links &uuml;ber die kleine Schotterrinne aufsteigen (orange Markierung).</p><p>Auf diesem Weg geht&rsquo;s schliesslich durch den Wald m&auml;&szlig;ig steil bergauf zum Kirmlehof. Hier wenige Meter &uuml;ber die asphaltierte Strasse, bevor diese in einer leichten Rechtsbiegung (Markierung am Telefonmasten neben der Strasse) wieder links durch das Feld ansteigend an der Baumgruppe vorbei verlassen wird, um &uuml;ber den Trampelpfad durch das Feld um Mudlerhof anzusteigen.</p><p>Parkplatz Taistner Alm</p><p>Hier gerade aus(bzw. rechts) &uuml;ber den Forstweg bis zum Taistner Alm</p><p>10 Minuten nach der Taistner Alm Verlassen des Forstweges und Aufstieg &uuml;ber teilweise recht steilen und stellenweise leicht ausgesetzten Steig zum Rudlhorn(2448 m),Gipfel Nr. 1;, ca. km 9,5.</p><p>Abstieg Richtung Scharte &uuml;ber Weg Nr. 54 und leichte S&uuml;dhandquerung (m&auml;&szlig;ig steil) zum Eisatz (2493 m),Gipfel Nr. 2</p><p>Abstieg vom Eisatz &uuml;ber Ausserriedl(2428 m) dem Weidezaun stets folgend vorbei auch am Innerriedl(2372 m) bis zum Wetterkreuz kurz vor Ende des Zaunes.</p><p>Nahezu wegloser, orange Markierung, anfangs steiler, dann etwas flacherer Aufstieg - Steigspuren sind zu erkennen - Richtung Million (2438 m), Gipfel Nr. 3</p><p>Kurz bergab, dann weglos, teilweise steil bergauf Richtung Frisiberg. Orange Markierung. Stellenweise leichte Blockkletterei. Erster Teil des Bergr&uuml;ckens wird rechts gequert, dann linksseitige Querung und zum Schluss kurzer, steiler Aufstieg von S&uuml;den (rechts) Richtung Gipfel des Frisiberg (2538 m), Gipfel Nr. 4, ca. km 14,5.</p><p>Ab hier dem Steig Nr. 17 zuerst bergab und im letzten Teil steil bergauf zur Amperspitze (2687 m), Gipfel Nr. 5</p><p>Bergab zum Ampert&ouml;rl (2413 m), ca. km 17</p><p>Dem Weidezaun auf der gegen&uuml;berliegenden Seite bergauf folgend bis zum Karl (2490 m),Gipfel Nr. 6</p><p>Dem breiten Bergr&uuml;cken, leicht ansteigend (orange Markierung) weiter bis zum Ochsenfelder (2609 m),Gipfel Nr. 7, km 18,00,</p><p>Steil und weglos bergab (orange Markierung)</p><p>Im letzten Teil des Abstieges (&bdquo;Hanslscharte&ldquo;) angelangt Querung nach links (orange Markierung), leicht ansteigend zum Napfl (2436 m),Gipfel Nr. 8</p><p>Weiter vom Napfl &uuml;ber den Gel&auml;nder&uuml;cken linkerhand (norden) einige Male leicht bergauf und bergab mit Anstieg zum Knebelstein (2494 m),Gipfel Nr. 9, ca. km 20,00,</p><p>Kurzer steiler Abstieg vom Knebelstein (weglos) &uuml;ber den Gel&auml;nder&uuml;cken bis zur Gr&uuml;blscharte (2394 m) &ndash; Aus- und Abstiegsm&ouml;glichkeit nach Antholz (ca. 1,5-2 h)</p><p>Ab hier wieder der Wegmarkierung (Nr. 9) &uuml;ber die Ochsenfelder, lange leicht bergauf zu den Ochsenfelder Seen (Abb. 18) und weiter, teilweise steil, &uuml;ber Blockwerk / Ger&ouml;ll bergauf zum H&ouml;llensteinspitz (2755 m),Gipfel Nr. 10, ca. km 23,40.</p><p>Kurz bergab und steil in Serpentinen bergauf zum letzten und h&ouml;chsten Gipfel der Tour, Rotwand (2818 m),Gipfel Nr. 11, ca. km 24,5.</p><p>Ab hier beginnt der letzte Abschnitt der Tour. &Uuml;ber das Agsttal (Weg Nr. 7) gut 5 km bergab zum Staller Sattel (2050 m). Hexenschenke (Checkpoint!). Erste und einzige bewirtschaftete H&uuml;tte entlang der Strecke.</p><p>Vom Staller Sattel geht&rsquo;s &uuml;ber Steig Nr. 11 einige Male die Passtrasse querend abw&auml;rts Richtung Antholzer See. Der Steige startet direkt am Schotterparkplatz an der Hexenschenke.</p><p>Ziel &ndash; Restaurant Platzl am Antholzer See</p>"
+    },
+    "en": {
+      "Title": "11 Summit Tour",
+      "Header": null,
+      "BaseText": "<p>A lonely hike from summit to summit in between the Antholzertal / Valle Anterselva and the Gsiesertal/Val Casies.</p><p>Oberrasen - Mudlerhof - Taistner Alm - Rudlhorn (01) - Eisatz (02) - Ausserriedl/ Innerriedl - Million (03) - Frisiberg (04) - Amperspitze (05) - Karl (06) - Ochsenfelder (07) - Napfl (08) - Knebelstein (09) - Gr&uuml;blscharte - H&ouml;llensteinspitze (10) - Rotwand (11) -Staller Sattel - Lake Antholz</p><p><strong>Length 33,0 km D+ 2850 HM D- 2280 HM</strong></p>",
+      "Keywords": null,
+      "Language": "en",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p><strong>Arrival by public transport</strong></p><p><strong>from train station Valdaora:</strong></p><ul><li>by bus 431 to the bus stop Rasun di Sopra/center</li></ul><p>&gt;See here for the bus &amp; train timetable</p>",
+      "AdditionalText": null
+    },
+    "it": {
+      "Title": "11 Cime Tour",
+      "Header": null,
+      "BaseText": "<p><strong>11 cime&nbsp;tra Valle di Anterselva e la Valle di Casies</strong></p><p>L&rsquo;escursione alla &bdquo;conquista&ldquo; di 11 cime passa delle seguenti cime con relativo punto timbratura e un punto ristoro. Questo punto fa anche la possibilit&agrave; d'uscita o ritiro.</p><p>Rasun di Sopra - Mudlerhof &ndash; Malga di Tesido - Rudlhorn (01) - Eisatz (02) - Ausserriedl/Innerriedl - Million (03) - Frisiberg (04) - Amperspitze (05) - Forcella Ampert&ouml;rl - Karl (06) - Ochsenfelder (07) &ndash; Napfl (08) - Monte Sbarra (09) - Forcella Gr&uuml;blscharte - H&ouml;llensteinspitze (10) - Croda Rossa (11) - Passo Stalle (nuovo!) - Lago di Anterselva;</p><p><strong>Lunghezza 33,0 km D+ 2850 HM D- 2280 HM</strong></p>",
+      "Keywords": null,
+      "Language": "it",
+      "MetaDesc": null,
+      "IntroText": null,
+      "MetaTitle": null,
+      "SubHeader": null,
+      "GetThereText": "<p><strong>Come raggiungere con i mezzi pubblici</strong></p><p><strong>da stazione ferroviaria Valdaora:</strong></p><ul><li>con il bus di linea 431 fino alla fermata Rasun di Sopra/centro</li></ul><p>&gt;Vai agli orari del bus e del treno</p>",
+      "AdditionalText": null
+    }
+  },
+  "IsOpen": true,
+  "GpsInfo": [
+    {
+      "Gpstype": "Startpunkt",
+      "Altitude": 1074.0,
+      "Latitude": 46.791066,
+      "Longitude": 12.059081,
+      "AltitudeUnitofMeasure": "m"
+    },
+    {
+      "Gpstype": "Endpunkt",
+      "Altitude": 1646.0,
+      "Latitude": 46.887013,
+      "Longitude": 12.173195,
+      "AltitudeUnitofMeasure": "m"
+    }
+  ],
+  "LTSTags": [],
+  "ODHTags": [
+    {
+      "Id": "berg",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/berg"
+    },
+    {
+      "Id": "bergtouren",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/bergtouren"
+    },
+    {
+      "Id": "weitere berge",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/weitere%20berge"
+    },
+    {
+      "Id": "hochtouren",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/hochtouren"
+    }
+  ],
+  "PoiType": "",
+  "Ratings": {
+    "Stamina": "5",
+    "Landscape": "6",
+    "Technique": "0",
+    "Difficulty": "6",
+    "Experience": "5"
+  },
+  "SmgTags": [
+    "berg",
+    "bergtouren",
+    "weitere berge",
+    "hochtouren"
+  ],
+  "SubType": "no Subtype",
+  "GpsTrack": [
+    {
+      "Id": "1065B272442496109E0AB0A5F93849FE",
+      "Type": "overview",
+      "GpxTrackUrl": "https://lcs.lts.it/downloads/gpx/522822D351CA11D18F1400A02427D15E/1C07C8B25CCE4CC17DED39F37936AA15_ov.gpx",
+      "GpxTrackDesc": {
+        "de": "Übersicht",
+        "en": "overview",
+        "it": "compendio"
+      }
+    },
+    {
+      "Id": "1C07C8B25CCE4CC17DED39F37936AA15",
+      "Type": "detailed",
+      "GpxTrackUrl": "https://lcs.lts.it/downloads/gpx/522822D351CA11D18F1400A02427D15E/1C07C8B25CCE4CC17DED39F37936AA15.gpx",
+      "GpxTrackDesc": {
+        "de": "Datei zum herunterladen",
+        "en": "File to download",
+        "it": "scaricare dato"
+      }
+    }
+  ],
+  "OwnerRid": "522822D351CA11D18F1400A02427D15E",
+  "FeetClimb": false,
+  "GpsPoints": {
+    "position": {
+      "Gpstype": "Startpunkt",
+      "Altitude": 1074.0,
+      "Latitude": 46.791066,
+      "Longitude": 12.059081,
+      "AltitudeUnitofMeasure": "m"
+    },
+    "endposition": {
+      "Gpstype": "Endpunkt",
+      "Altitude": 1646.0,
+      "Latitude": 46.887013,
+      "Longitude": 12.173195,
+      "AltitudeUnitofMeasure": "m"
+    }
+  },
+  "Highlight": false,
+  "OdhActive": true,
+  "Shortname": "11 Gipfel Tour",
+  "SmgActive": true,
+  "WayNumber": null,
+  "Difficulty": "6",
+  "Exposition": [],
+  "HasRentals": false,
+  "IsPrepared": false,
+  "LastChange": "2020-06-10T02:45:02.9787519",
+  "ChildPoiIds": null,
+  "FirstImport": "2019-04-09T02:45:02.7367404",
+  "HasLanguage": [
+    "de",
+    "it",
+    "en"
+  ],
+  "IsWithLigth": false,
+  "LicenseInfo": {
+    "Author": "",
+    "License": "CC0",
+    "ClosedData": false,
+    "LicenseHolder": "https://www.lts.it"
+  },
+  "RunToValley": false,
+  "ContactInfos": {
+    "de": {
+      "Tax": null,
+      "Url": "http://www.antholzertal.com",
+      "Vat": null,
+      "City": "Rasen/Antholz",
+      "Email": "info@antholzertal.com",
+      "Address": "Niederrasner Str. 35/F",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39030",
+      "Language": "de",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Toursimusverein Antholzertal",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 496269"
+    },
+    "en": {
+      "Tax": null,
+      "Url": "http://www.antholzertal.com",
+      "Vat": null,
+      "City": "Rasen/Antholz",
+      "Email": "info@antholzertal.com",
+      "Address": "Niederrasner Str. 35 F",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39030",
+      "Language": "en",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Tourismusverein Antholzertal",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 496269"
+    },
+    "it": {
+      "Tax": null,
+      "Url": "http://www.antholzertal.com",
+      "Vat": null,
+      "City": "Rasun/Anterselva",
+      "Email": "info@antholzertal.com",
+      "Address": "Via Rasun di Sotto 35 F",
+      "LogoUrl": null,
+      "Surname": "",
+      "ZipCode": "39030",
+      "Language": "it",
+      "Faxnumber": "",
+      "Givenname": "",
+      "NamePrefix": "",
+      "CompanyName": "Ass. Turistica Valle Anterselva",
+      "CountryCode": "IT",
+      "CountryName": "Italy",
+      "Phonenumber": "+39 0474 496269"
+    }
+  },
+  "ImageGallery": [],
+  "LocationInfo": {
+    "TvInfo": {
+      "Id": "522822D351CA11D18F1400A02427D15E",
+      "Name": {
+        "cs": "Antholzertal/Valle Anterselva",
+        "de": "Antholzertal",
+        "en": "Antholzertal/Valle Anterselva",
+        "fr": "Antholzertal/Valle Anterselva",
+        "it": "Rasun in Valle di Anterselva",
+        "nl": "Antholzertal/Valle Anterselva",
+        "pl": "Antholzertal/Valle Anterselva",
+        "ru": "Антхольцерталь/Rasen in Valle di Anterselva"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/TourismAssociation/522822D351CA11D18F1400A02427D15E"
+    },
+    "AreaInfo": {
+      "Id": "E0DF834346DF46FE91B1895937EA3ADA",
+      "Name": {
+        "cs": "Antholzertal",
+        "de": "Antholzertal",
+        "en": "Antholzertal",
+        "fr": "Antholzertal",
+        "it": "Antholzertal",
+        "nl": "Antholzertal",
+        "pl": "Antholzertal",
+        "ru": "Antholzertal"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/Area/E0DF834346DF46FE91B1895937EA3ADA"
+    },
+    "RegionInfo": {
+      "Id": "D2633A1BC24E11D18F1B006097B8970B",
+      "Name": {
+        "cs": "Bruneck/Brunico a okolí",
+        "de": "Bruneck und Umgebung",
+        "en": "Bruneck/Brunico and environs",
+        "fr": "Bruneck/Brunico et environs",
+        "it": "Brunico e dintorni",
+        "nl": "Bruneck/Brunico en omgeving",
+        "pl": "Bruneck/Brunico i okolice",
+        "ru": "Брунек/Brunico и окрестности"
+      },
+      "Self": "https://tourism.opendatahub.bz.it/api/Region/D2633A1BC24E11D18F1B006097B8970B"
+    },
+    "DistrictInfo": null,
+    "MunicipalityInfo": null
+  },
+  "MasterPoiIds": null,
+  "ActivityTypes": [
+    {
+      "Id": "Berg",
+      "Self": "https://tourism.opendatahub.bz.it/api/ActivityTypes/Berg",
+      "Type": "Type"
+    }
+  ],
+  "AltitudeSumUp": 3139.0,
+  "BikeTransport": false,
+  "LiftAvailable": false,
+  "DistanceLength": 32987.0,
+  "AltitudeSumDown": 2571.0,
+  "HasFreeEntrance": false,
+  "OutdooractiveID": "38014537",
+  "CopyrightChecked": true,
+  "DistanceDuration": 12.17,
+  "OperationSchedule": [
+    {
+      "Stop": "2020-09-01T00:00:00",
+      "Type": "3",
+      "Start": "2020-06-01T00:00:00",
+      "OperationScheduleTime": null,
+      "OperationscheduleName": {
+        "de": ""
+      }
+    }
+  ],
+  "AdditionalPoiInfos": {
+    "de": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "",
+      "Language": "de",
+      "MainType": "Berg"
+    },
+    "en": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "",
+      "Language": "en",
+      "MainType": "Mountain"
+    },
+    "it": {
+      "Novelty": null,
+      "PoiType": "",
+      "SubType": "",
+      "Language": "it",
+      "MainType": "Montagna"
+    }
+  },
+  "AltitudeDifference": 571.0,
+  "AltitudeLowestPoint": 1074.0,
+  "AltitudeHighestPoint": 2814.0,
+  "TourismorganizationId": "522822D351CA11D18F1400A02427D15E",
+  "OutdooractiveElevationID": null
+}]}

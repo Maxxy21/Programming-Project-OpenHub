@@ -1,0 +1,28 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://gitlab.inf.unibz.it/Maxwell.Aboagye/pp201920_project_a6.git",
+  "title": "Activities.json Schema",
+  "description": "This is the schema for the Analysis.json file",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "name": {
+      "description": "Name of activity",
+      "type": "string"
+    },
+    "types": {
+      "description": "The types of activities",
+      "type": "array"
+    },
+    "hasGPSTrack": {
+      "description": "It is true if the activity has any sort of GPS data",
+      "type": "boolean"
+    },
+    "region": {
+      "description": "The locations of the activities",
+      "type": "string"
+    }
+  }
+}

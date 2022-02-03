@@ -1,0 +1,51 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://gitlab.inf.unibz.it/Maxwell.Aboagye/pp201920_project_a6.git",
+  "title": "Analysis.json Schema",
+  "description": "This is the schema for the Analysis.json file",
+  "required": [
+    "activitiesTypes",
+    "trackedActivityIds",
+    "regionsWithMostActivities",
+    "regionsWithLeastActivities"
+  ],
+  "additionalProperties": false,
+  "type": "object",
+  "properties": {
+    "activitiesTypes": {
+      "description": "The number of activities per type",
+      "type": "object"
+    },
+    "trackedActivityIds": {
+      "description": "The ID's of the tracked activities",
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "regionsWithMostActivities": {
+      "type": "object",
+      "description": "The number of regions with the most activities",
+      "properties": {
+        "numberOfActivities": {
+          "type": "integer"
+        },
+        "regionIds": {
+          "type": "array"
+        }
+      }
+    },
+    "regionsWithLeastActivities": {
+      "type": "object",
+      "description": "The number of regions with less activities",
+      "properties": {
+        "numberOfActivities": {
+          "type": "integer"
+        },
+        "regionIds": {
+          "type": "array"
+        }
+      }
+    }
+  }
+}
